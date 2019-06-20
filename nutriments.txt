@@ -34,7 +34,7 @@ zh:酒精度
 # zh_HK:酒精
 # zh_TW:酒精
 unit:en:% vol
- 
+
 en:Energy
 ar:الطاقه
 bg:Енергийна стойност
@@ -65,7 +65,7 @@ zh:能量
 unit:en:kj
 unit:en-us:kcal
 unit:en-ca:kcal
- 
+
 en:Energy from fat
 cs:Energie z tuku
 de:Brennwert aus Fetten
@@ -81,7 +81,7 @@ zh:来自脂肪的能量
 unit:en:kj
 unit:en-us:kcal
 unit:en-ca:kcal
- 
+
 en:Proteins
 ar:البروتين
 bg:Белтъци
@@ -117,7 +117,7 @@ zh:蛋白质
 # zh-CN:蛋白质
 # zh-HK:蛋白質
 # zh-TW:蛋白質
- 
+
 en:casein
 ar:كازين
 be:Казеін
@@ -173,7 +173,7 @@ zh:酪蛋白
 # zh_CN:酪蛋白
 # zh_HK:酪蛋白
 # zh_TW:酪蛋白
- 
+
 en:Nucleotides
 de:Nukleotide
 el:Νουκλεοτίδια
@@ -189,7 +189,7 @@ zh:核苷酸
 # zh_TW:核苷酸
 # zh_HK:核苷酸
 # zh_CN:核苷酸
- 
+
 en:Serum proteins
 de:Serumprotein
 el:Πρωτεΐνες ορού
@@ -203,7 +203,7 @@ zh:血清蛋白
 # zh_CN:血清蛋白
 # zh_HK:血清蛋白
 # zh_TW:血清蛋白
- 
+
 en:Carbohydrate
 ar:الكاربوهايدريد
 bg:Въглехидрати
@@ -241,7 +241,7 @@ zh:碳水化合物
 # zh_CN:碳水化合物
 # zh_HK:碳水化合物
 # zh_TW:碳水化合物
- 
+
 en:Sugars
 ar:السكر
 bg:Захари
@@ -277,7 +277,7 @@ zh:糖
 # zh_CN:糖
 # zh_HK:糖
 # zh_TW:糖
- 
+
 en:sucrose
 ar:سكروز
 # arz:سوكروز
@@ -779,7 +779,7 @@ yi:קראכמל
 zh:淀粉
 # yue:澱粉
 wikidata:en:Q41534
-wikipedia:en:https://en.wikipedia.org/wiki/Starch 
+wikipedia:en:https://en.wikipedia.org/wiki/Starch
 
 en:Sugar alcohols (Polyols)
 bg:Полиоли
@@ -811,7 +811,7 @@ zh:糖醇（多元醇）
 # zh_CN:糖醇（多元醇）
 # zh_HK:多元醇
 # zh_TW:多元醇
- 
+
 en:Fat
 ar:الدهون
 bg:Мазнини
@@ -846,7 +846,7 @@ zh:脂肪
 # zh_CN:脂肪
 # zh_HK:脂肪
 # zh_TW:脂肪
- 
+
 en:Saturated fat
 bg:Наситени мастни киселини
 cs:Nasycené mastné kyseliny
@@ -881,7 +881,7 @@ zh:饱和脂肪
 # zh_CN:饱和脂肪
 # zh_HK:飽和脂肪
 # zh_TW:飽和脂肪
- 
+
 en:Butyric acid (4:0)
 de:Buttersäure (4:0)
 el:Βουτυρικό οξύ (4:0)
@@ -896,7 +896,7 @@ zh:丁酸 (4:0)
 # zh_CN:丁酸 (4:0)
 # zh_HK:丁酸 (4:0)
 # zh_TW:丁酸 (4:0)
- 
+
 en:Caproic acid (6:0)
 de:Capronsäure (6:0)
 el:Καπροϊκό οκύ (6:0)
@@ -911,7 +911,7 @@ zh:己酸 (6:0)
 # zh_CN:己酸 (6:0)
 # zh_HK:己酸 (6:0)
 # zh_TW:己酸 (6:0)
- 
+
 en:Caprylic acid (8:0)
 de:Caprylsäure (8:0)
 el:Καπρυλικό οξύ (8:0)
@@ -926,7 +926,7 @@ zh:辛酸 (8:0)
 # zh_CN:辛酸 (8:0)
 # zh_HK:辛酸 (8:0)
 # zh_TW:辛酸 (8:0)
- 
+
 en:Capric acid (10:0)
 de:Caprinsäure (10:0)
 el:Καπρικό οξύ (10:0)
@@ -941,7 +941,7 @@ zh:癸酸 (10:0)
 # zh_CN:癸酸 (10:0)
 # zh_HK:癸酸 (10:0)
 # zh_TW:癸酸 (10:0)
- 
+
 en:Lauric acid (12:0)
 de:Laurinsäure
 el:Λαυρικό οξύ/n-δωδεκανοϊκό οξύ (12:0)
@@ -955,7 +955,7 @@ zh:十二酸 (12:0)
 # zh_CN:十二酸 (12:0)
 # zh_HK:十二酸 (12:0)
 # zh_TW:十二酸 (12:0)
- 
+
 en:Myristic acid (14:0)
 de:Myristinsäure (14:0)
 el:Μυριστικό οξύ (14:0)
@@ -969,7 +969,7 @@ zh:十四酸 (14:0)
 # zh_CN:十四酸 (14:0)
 # zh_HK:十四酸 (14:0)
 # zh_TW:十四酸 (14:0)
- 
+
 en:Palmitic acid (16:0)
 de:Palitinsäure (16:0)
 el:Παλμιτικό οξύ (16:0)
@@ -984,7 +984,7 @@ zh:十六酸 (16:0)
 # zh_CN:十六酸 (16:0)
 # zh_HK:十六酸 (16:0)
 # zh_TW:十六酸 (16:0)
- 
+
 en:Stearic acid (18:0)
 de:Stearinsäure (18:0)
 el:Στεατικό/Στεαρικό οξύ (18:0)
@@ -998,7 +998,7 @@ zh:十八酸 (18:0)
 # zh_CN:十八酸 (18:0)
 # zh_HK:十八酸 (18:0)
 # zh_TW:十八酸 (18:0)
- 
+
 en:Arachidic acid (20:0)
 de:Arachinsäure (20:0)
 el:Αραχιδικό οξύ (20:0)
@@ -1011,7 +1011,7 @@ zh:二十酸 (20:0)
 # zh_CN:二十酸 (20:0)
 # zh_HK:二十酸 (20:0)
 # zh_TW:二十酸 (20:0)
- 
+
 en:Behenic acid (22:0)
 de:Behensäure (22:0)
 el:Βεχενικό οξύ/εικοσαδυενοϊκό οξύ (22:0)
@@ -1025,7 +1025,7 @@ zh:二十二酸 (22:0)
 # zh_CN:二十二酸 (22:0)
 # zh_HK:二十二酸 (22:0)
 # zh_TW:二十二酸 (22:0)
- 
+
 en:Lignoceric acid (24:0)
 de:Lignocerinsäure (24:0)
 el:Λιγνοκηρικό οξύ (24:0)
@@ -1038,7 +1038,7 @@ zh:二十四酸 (24:0)
 # zh_CN:二十四酸 (24:0)
 # zh_HK:二十四酸 (24:0)
 # zh_TW:二十四酸 (24:0)
- 
+
 en:Cerotic acid (26:0)
 de:Cerotinsäure (26:0)
 el:Κηροτικό οξύ (26:0)
@@ -1051,7 +1051,7 @@ zh:二十六酸 (26:0)
 # zh_CN:二十六酸 (26:0)
 # zh_HK:二十六酸 (26:0)
 # zh_TW:二十六酸 (26:0)
- 
+
 en:Montanic acid (28:0)
 de:Montansäure (28:0)
 el:Μοντανικό οξύ (28:0)
@@ -1064,7 +1064,7 @@ zh:二十八酸 (28:0)
 # zh_CN:二十八酸 (28:0)
 # zh_HK:二十八酸 (28:0)
 # zh_TW:二十八酸 (28:0)
- 
+
 en:Melissic acid (30:0)
 de:Melissinsäure (30:0)
 el:Μελισσικό οξύ (30:0)
@@ -1077,7 +1077,7 @@ zh:三十酸 (30:0)
 # zh_CN:三十酸 (30:0)
 # zh_HK:三十酸 (30:0)
 # zh_TW:三十酸 (30:0)
- 
+
 en:Monounsaturated fat
 bg:Мононенаситени мастни киселини
 cs:Mononenasycené mastné kyseliny
@@ -1109,7 +1109,7 @@ zh:单不饱和脂肪
 # zh_CN:单不饱和脂肪
 # zh_HK:單元不飽和脂肪
 # zh_TW:單元不飽和脂肪
- 
+
 en:Omega 9 fatty acids
 de:Omega-9-Fettsäuren
 el:Ωμέγα-9 λιπαρά
@@ -1126,7 +1126,7 @@ zh:Omega-9 脂肪酸
 # zh_CN:Omega-9 脂肪酸
 # zh_HK:Omega-9 脂肪酸
 # zh_TW:Omega-9 脂肪酸
- 
+
 en:Oleic acid (18:1 n-9)
 de:Ölsäure (18:1 n-9)
 el:Ολεϊκό οξύ (18:1 n-9)
@@ -1140,7 +1140,7 @@ zh:油酸 (18:1 n-9)
 # zh_CN:油酸 (18:1 n-9)
 # zh_HK:油酸 (18:1 n-9)
 # zh_TW:油酸 (18:1 n-9)
- 
+
 en:Elaidic acid (18:1 n-9)
 de:Elaidinsäure (18:1 n-9)
 el:Ελαϊδικό οξύ (18:1 n-9)
@@ -1153,7 +1153,7 @@ zh:反油酸 (18:1 n-9)
 # zh_CN:反油酸 (18:1 n-9)
 # zh_HK:反油酸 (18:1 n-9)
 # zh_TW:反油酸 (18:1 n-9)
- 
+
 en:Gondoic acid (20:1 n-9)
 de:Gondosäure (20:1 n-9)
 el:Γονδοϊκό οξύ (20:1 n-9)
@@ -1166,7 +1166,7 @@ zh:11-二十碳烯酸 (20:1 n-9)
 # zh_CN:11-二十碳烯酸 (20:1 n-9)
 # zh_HK:11-二十碳烯酸 (20:1 n-9)
 # zh_TW:11-二十碳烯酸 (20:1 n-9)
- 
+
 en:Mead acid (20:3 n-9)
 de:Mead'sche Säure (20:3 n-9)
 el:Οξύ Mead (20:3 n-9)
@@ -1179,7 +1179,7 @@ zh:二十碳三烯酸 (20:3 n-9)
 # zh_CN:二十碳三烯酸 (20:3 n-9)
 # zh_HK:二十碳三烯酸 (20:3 n-9)
 # zh_TW:二十碳三烯酸 (20:3 n-9)
- 
+
 en:Erucic acid (22:1 n-9)
 de:Erucasäure (18:1 n-9)
 el:Ερουκικό οξύ (22:1 n-9)
@@ -1192,7 +1192,7 @@ zh:芥酸 (22:1 n-9)
 # zh_CN:芥酸 (22:1 n-9)
 # zh_HK:芥酸 (22:1 n-9)
 # zh_TW:芥酸 (22:1 n-9)
- 
+
 en:Nervonic acid (24:1 n-9)
 de:Nervonsäure (24:1 n-9)
 el:Νερβονικό (24:1 n-9)
@@ -1206,7 +1206,7 @@ zh:二十四碳烯酸 (24:1 n-9)
 # zh_CN:二十四碳烯酸 (24:1 n-9)
 # zh_HK:二十四碳烯酸 (24:1 n-9)
 # zh_TW:二十四碳烯酸 (24:1 n-9)
- 
+
 en:Polyunsaturated fat
 bg:Полиненаситени мастни киселини
 cs:Polynenasycené mastné kyseliny
@@ -1238,7 +1238,7 @@ zh:多元不饱和酸
 # zh_CN:多元不饱和酸
 # zh_HK:多元不飽和酸
 # zh_TW:多元不飽和酸
- 
+
 en:Omega 3 fatty acids
 cs:Omega 3 mastné kyseliny
 de:Omega-3-Fettsäuren
@@ -1256,7 +1256,7 @@ zh:Omega 3 脂肪酸
 # zh_CN:Omega 3 脂肪酸
 # zh_HK:Omega 3 脂肪酸
 # zh_TW:Omega 3 脂肪酸
- 
+
 en:Alpha-linolenic acid / ALA (18:3 n-3)
 de:A-Linolensäure (18:3 n-3)
 el:Α-λινολενικό οξύ/ ALA (18:3 n-3)
@@ -1270,7 +1270,7 @@ zh:α-亚麻酸 / ALA (18:3 n-3)
 # zh_CN:α-亚麻酸 / ALA (18:3 n-3)
 # zh_HK:α-亞麻酸 / ALA (18:3 n-3)
 # zh_TW:α-亞麻酸 / ALA (18:3 n-3)
- 
+
 en:Eicosapentaenoic acid / EPA (20:5 n-3)
 de:Eicosapentaensäure (20:5 n-3)
 el:Εικοσιπεντανοϊκο οξύ / EPA (20:5 n-3)
@@ -1283,7 +1283,7 @@ zh:二十碳五酸 / EPA (20:5 n-3)
 # zh_CN:二十碳五酸 / EPA (20:5 n-3)
 # zh_HK:二十碳五酸 / EPA (20:5 n-3)
 # zh_TW:二十碳五酸 / EPA (20:5 n-3)
- 
+
 en:Docosahexaenoic acid / DHA (22:6 n-3)
 de:Docosahexaensäure (22:6 n-3)
 el:Δοκοσαεξανοϊκο οξύ / DHA (22:6 n-3)
@@ -1296,7 +1296,7 @@ zh:二十二碳六酸 / DHA (22:6 n-3)
 # zh_CN:二十二碳六酸 / DHA (22:6 n-3)
 # zh_HK:二十二碳六酸 / DHA (22:6 n-3)
 # zh_TW:二十二碳六酸 / DHA (22:6 n-3)
- 
+
 en:Omega 6 fatty acids
 de:Omega-6-Fettsäuren
 el:Ωμέγα-6 λιπαρά
@@ -1313,7 +1313,7 @@ zh:Omega 6 脂肪酸
 # zh_CN:Omega 6 脂肪酸
 # zh_HK:Omega 6 脂肪酸
 # zh_TW:Omega 6 脂肪酸
- 
+
 en:Linoleic acid / LA (18:2 n-6)
 el:Λινολεϊκό οξύ / LA (18:2 n-6)
 es:Ácido linoleico / LA (18:2 n-6)
@@ -1325,7 +1325,7 @@ zh:亚油酸 / LA (18:2 n-6)
 # zh_CN:亚油酸 / LA (18:2 n-6)
 # zh_HK:亞油酸 / LA (18:2 n-6)
 # zh_TW:亞油酸 / LA (18:2 n-6)
- 
+
 en:Arachidonic acid / AA / ARA (20:4 n-6)
 el:Αραχιδονικό οξύ / AA / ARA (20:4 n-6)
 es:Ácido araquidónico / AA / ARA (20:4 n-6)
@@ -1339,7 +1339,7 @@ zh:花生四烯酸 / AA / ARA (20:4 n-6)
 # zh_CN:花生四烯酸 / AA / ARA (20:4 n-6)
 # zh_HK:花生四烯酸 / AA / ARA (20:4 n-6)
 # zh_TW:花生四烯酸 / AA / ARA (20:4 n-6)
- 
+
 en:Gamma-linolenic acid / GLA (18:3 n-6)
 el:Γ-λινολενικό οξύ / GLA (18:3 n-6)
 es:Ácido gamma-linolénico / GLA (18:3 n-6)
@@ -1352,7 +1352,7 @@ zh:γ-亚麻酸 / GLA (18:3 n-6)
 # zh_CN:γ-亚麻酸 / GLA (18:3 n-6)
 # zh_HK:γ-亞麻酸 / GLA (18:3 n-6)
 # zh_TW:γ-亞麻酸 / GLA (18:3 n-6)
- 
+
 en:Dihomo-gamma-linolenic acid / DGLA (20:3 n-6)
 el:Διχομο-γ-λινολεϊκό οξύ / DGLA (20:3 n-6)
 es:Ácido dihomo-gamma-linolénico / DGLA (20:3 n-6)
@@ -1365,7 +1365,7 @@ zh:二高-γ-亚麻酸 / DGLA (20:3 n-6)
 # zh_CN:二高-γ-亚麻酸 / DGLA (20:3 n-6)
 # zh_HK:二高-γ-亞麻酸 / DGLA (20:3 n-6)
 # zh_TW:二高-γ-亞麻酸 / DGLA (20:3 n-6)
- 
+
 
 en:Trans fat
 cs:Trans tuky
@@ -1383,9 +1383,9 @@ zh:反式脂肪
 # zh_CN:反式脂肪
 # zh_HK:反式脂肪
 # zh_TW:反式脂肪
- 
+
 en:Cholesterol
-ar:الكوليسترول 
+ar:الكوليسترول
 cs:Cholestrol
 de:Cholesterin
 el:Χοληστερόλη
@@ -1403,7 +1403,7 @@ zh:胆固醇
 # zh_HK:膽固醇
 # zh_TW:膽固醇
 unit:en:mg
- 
+
 en:Dietary fiber
 bg:Влакнини
 cs:Vláknina
@@ -1434,7 +1434,7 @@ zh:膳食纤维
 # zh_CN:膳食纤维
 # zh_HK:膳食纖維
 # zh_TW:纖維
- 
+
 en:Soluble fiber
 de:lösliche Ballaststoffe
 fr:Fibres solubles
@@ -1444,7 +1444,7 @@ zh:可溶性纤维
 # zh_CN:可溶性纤维
 # zh_HK:可溶性纖維
 # zh_TW:可溶性纖維
- 
+
 en:Insoluble fiber
 de:unlösliche Ballaststoffe
 fr:Fibres insolubles
@@ -1454,7 +1454,7 @@ zh:不可溶性纤维
 # zh_CN:不可溶性纤维
 # zh_HK:不可溶性纖維
 # zh_TW:不可溶性纖維
- 
+
 en:Sodium
 fr:Sodium
 el:Νάτριο
@@ -1593,7 +1593,7 @@ zh:食盐
 # yue:食鹽
 wikidata:en:Q11254
 wikipedia:en:https://en.wikipedia.org/wiki/Salt
- 
+
 en:Salt equivalent
 fr:Equivalent en sel
 es:Equivalente en sal
@@ -1601,7 +1601,7 @@ el:Ισοδύναμο σε αλάτι
 he:תחליפי מלח
 nl:Equivalent in zout
 pt:Equivalente em sal
- 
+
 # description:en: A vitamin is an organic molecule (or related set of molecules) which is an essential micronutrient that an organism needs in small quantities for the proper functioning of its metabolism. This ingredient is written in plural
 # comment:en:vitamins is also part of ingredients.txt
 
@@ -1729,7 +1729,7 @@ yo:Àmínìamáralókun
 zh:维生素
 #wikidata:en:Q34956
 wikipedia:en:https://en.wikipedia.org/wiki/Vitamin
- 
+
 en:vitamin A
 af:Vitamien A
 ar:فيتامين ألف
@@ -1824,7 +1824,7 @@ daily_value_2016:en:900 RAE # ! not same unit
 international_unit:en: 0.3, # Vitamin A: 1 IU is the biological equivalent of 0.3 μg retinol, or of 0.6 μg beta-carotene.[6][7][a]
 unit:en-us:% DV
 unit:en-ca:% DV
- 
+
 'vitamin-d' => {
 fr:Vitamine D / D3 (cholécalciférol)
 fr_synonyms => ["Vitamine D "Vitamine D3 "cholécalciférol"],
@@ -1853,7 +1853,7 @@ unit:en:µg
 daily_value:en:40,
 daily_value_2016:en:20,
 international_unit:en: 0.025, # 1 IU is the biological equivalent of 25 ng cholecalciferol/ergocalciferol
- 
+
 'vitamin-e' => {
 fr:Vitamine E (tocophérol)
 fr_synonyms => ["Vitamine E "tocophérol"],
@@ -1884,7 +1884,7 @@ unit:en:mg
 daily_value:en:20,
 daily_value_2016:en:15,
 international_unit:en: 2/3, # 1 IU is the biological equivalent of about 0.667 mg d-alpha-tocopherol (2/3 mg exactly), or of 0.45 mg of dl-alpha-tocopherol acetate.[8][9]
- 
+
 'vitamin-k' => {
 fr:Vitamine K
 en:Vitamin K
@@ -1912,7 +1912,7 @@ zh:维生素K
 unit:en:µg
 daily_value:en:80,
 daily_value_2016:en:120,
- 
+
 en:Vitamin C, ascorbic acid, E300, E 300, E-300
 af:Vitamien C
 ar:فيتامين سي
@@ -2390,7 +2390,7 @@ wikidata:en:Q127060
 unit:en:µg
 daily_value:en:400,
 daily_value_2016:en:400,
- 
+
 # folates = total folates = naturally occuring folates + added folic acid
 
 en:Folates (total folates)
@@ -2549,7 +2549,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Biotin
 unit:en:µg
 daily_value:en:300,
 daily_value_2016:en:30,
- 
+
 # comment:en:pantothenic acid is also in ingredients.txt
 
 en:Pantothenic acid, vitamin B5, B5
@@ -2744,7 +2744,7 @@ zh:礦物
 #wikidata:en:
 wikipedia:en:https://en.wikipedia.org/wiki/Mineral
 
- 
+
 en:Potassium
 bg:Калий
 cs:Draslík
@@ -2810,7 +2810,7 @@ sv:Klorid
 unit:en:mg
 daily_value:en:3400,
 daily_value_2016:en:2300,
- 
+
 en:Silica
 de:Kieselerde
 es:Sílice
@@ -2982,7 +2982,7 @@ daily_value:en:1000,
 daily_value_2016:en:1300,
 unit:en-us:% DV
 unit:en-ca:% DV
- 
+
 en:Phosphorus
 ar:الفوسفور
 bg:Фосфор
@@ -3012,7 +3012,7 @@ zh:磷
 unit:en:mg
 daily_value:en:1000,
 daily_value_2016:en:1250,
- 
+
 # description:en: IRON is a chemical element with symbol Fe (from Latin:ferrum) and atomic number 26. Iron is pervasive, but particularly rich sources of dietary iron include red meat, oysters, lentils, beans, poultry, fish, leaf vegetables, watercress, tofu, chickpeas, black-eyed peas, and blackstrap molasses. Iron provided by dietary supplements is often found as iron(II) fumarate, although iron(II) sulfate is cheaper and is absorbed equally well.
 # comment:en:Iron is also in ingredients.txt
 
@@ -3252,8 +3252,8 @@ zh:鎂
 unit:en:mg
 daily_value:en:400,
 daily_value_2016:en:420,
- 
-# description:en:Zinc is a chemical element with symbol Zn and atomic number 30. 
+
+# description:en:Zinc is a chemical element with symbol Zn and atomic number 30.
 # comment:zinc is also in ingredients.txt
 
 en:zinc
@@ -3417,7 +3417,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Zinc
 unit:en:mg
 daily_value:en:15,
 daily_value_2016:en:11,
- 
+
 # description:en:COPPER is a chemical element with symbol Cu (from Latin:cuprum) and atomic number 29.
 # comment:en:Copper is also in ingredients.txt
 
@@ -3649,7 +3649,7 @@ sv:Mangan
 unit:en:mg
 daily_value:en:2,
 daily_value_2016:en:2.3,
- 
+
 en:Fluoride
 bg:Флуорид
 cs:Fluor
@@ -3677,7 +3677,7 @@ sv:Fluorid
 unit:en:mg
 
 
-# description:en:Selenium is a chemical element with symbol Se and atomic number 34. 
+# description:en:Selenium is a chemical element with symbol Se and atomic number 34.
 # comment:en:Selenium is also in ingredients.txt
 
 en:Selenium, Sn
@@ -3832,8 +3832,8 @@ wikipedia:en:https://en.wikipedia.org/wiki/Selenium
 unit:en:µg
 daily_value:en:70,
 daily_value_2016:en:55,
- 
-# description:en:Chromium is a chemical element with symbol Cr and atomic number 24. 
+
+# description:en:Chromium is a chemical element with symbol Cr and atomic number 24.
 # comment:en:chromium is also in ingredients.txt
 
 en:Chromium
@@ -4227,7 +4227,7 @@ ms:Iodin
 mt:Jodju
 my:အိုင်အိုဒင်း
 # myv:Иод
-# nan:Ak-sò͘ 
+# nan:Ak-sò͘
 nb:jod
 # nds:Jod
 ne:आयोडिन
@@ -4290,13 +4290,13 @@ wikipedia:en:https://en.wikipedia.org/wiki/Iodine
 unit:en:µg
 daily_value:en:150,
 dv_2016:en:150,
- 
+
 en:Caffeine
 fr:Caféine / Théine
 el:Καφεΐνη
 nl:Cafeïne
 pt:Cafeína
- 
+
 en:Taurine
 ar:التورين
 bg:Таурин
@@ -4354,7 +4354,7 @@ en:pH
 el:pH
 nl:pH
 unit:en:
- 
+
 
 en:Carbon footprint / CO2 emissions
 de:Carbon Footprint / CO2-Emissionen
@@ -4366,7 +4366,7 @@ it:Emissioni di CO2 (impronta climatica)
 nl:Ecologische voetafdruk / CO2-uitstoot
 pt:Pegada de carbono / Emissões de CO<sub>2</sub>
 unit:en:g
- 
+
 en:Carbon footprint from meat or fish
 fr:Empreinte carbone de la viande ou du poisson
 unit:en:g
@@ -4374,13 +4374,13 @@ unit:en:g
 en:Glycemic Index
 de:Glykämischer Index
 unit:en:
- 
+
 en:Water hardness
 fr:Dureté de l'eau
 ru:Жёсткость воды
 de:Wasserhärte
 unit:en:mmol/l
- 
+
 en:Fruits - vegetables and nuts
 fr:Fruits - légumes et noix
 es:Frutas - verduras y nueces
@@ -4388,11 +4388,11 @@ el:Φρούτα - λαχανικά, καρποί
 nl:Fruit - groenten en noten
 de:Obst - Gemüse und Nüsse
 unit:en:%
- 
+
 en:Fruits - vegetables and nuts - dried
 fr:Fruits - légumes et noix - séchés
 unit:en:%
- 
+
 
 en:Fruits - vegetables and nuts (estimate from ingredients list)
 de:Obst - Gemüse und Nüsse (Schätzung aus Zutatenliste)
@@ -4400,7 +4400,7 @@ fr:Fruits - légumes et noix (estimation avec la liste des ingrédients)
 es:Frutas - verduras y nueces (estimación de la lista de ingredientes)
 nl:Fruit - groenten en noten (Schat uit ingrediëntenlijst)
 unit:en:%
- 
+
 en:Collagen/Meat protein ratio (maximum)
 fr:Rapport collagène sur protéines de viande (maximum)
 el:Αναλογία κολλαγόνου/πρωτεΐνης κρέατος (μέγιστο)
@@ -4408,7 +4408,7 @@ es:Relación tejido conjuntivo/proteínas de carne (máximo)
 de:Verhältnis Kollagen/Eiweiß
 nl:Verhouding collageen/eiwitten uit vlees (maximum)
 unit:en:%
- 
+
 en:Cocoa (minimum)
 de:Kakao (Minimum)
 es:Cacao (mínimo)
@@ -4416,31 +4416,31 @@ fr:Cacao (minimum)
 nl:Cacao (minimum)
 pt:Cacau (minimum)
 unit:en:%
- 
+
 en:Nutrition score - UK
 nl:Voedingsscore - UK
 el:Bαθμολογία θρεπτικής αξίας-UK
 unit:en:
- 
+
 en:Nutrition score - France
 fr:Score nutritionnel - France
 nl:Voedingsscore - FR
 el:Βαθμολογία θρεπτικής αξίας-FR
 unit:en:
- 
+
 en:Beta carotene
 de:Beta-Carotin
 es:Beta caroteno
 fr:Bêta carotène
 nl:Bêta-caroteen
- 
+
 en:Chlorophyl
 de:Chlorophyll
 nl:Chlorofyl
- 
+
 en:Nutrition grade
 fr:Note nutritionnelle
- 
+
 en:Choline
 ar:كولين
 bg:Холин
@@ -4478,7 +4478,7 @@ tr:Kolin
 uk:Холін
 zh:胆碱
 # zh_CN:胆碱
- 
+
 # description:en:Phytomenadione, also known as vitamin K1 or PHYLLOQUINONE, is a vitamin found in food and used as a dietary supplement. As a supplement it is used to treat certain bleeding disorders. Vitamin K is required for bone protein formation.
 3 comment:en:Phylloquinone is also in ingredients.txt
 
@@ -4519,10 +4519,10 @@ vi:Phytomenadione
 zh:叶绿基甲萘醌
 wikidata:en:Q186093
 wikipedia:en:https://en.wikipedia.org/wiki/Phytomenadione
- 
+
 en:Beta-glucan
 fr:Bêta-glucanes
- 
+
 en:Inositol
- 
+
 en:Carnitine"
