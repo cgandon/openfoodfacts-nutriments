@@ -113,7 +113,7 @@ def find_nb_columns(content,columns = None):
             kmeans_result.loc[i,"elbow"] = (kmeans_result.loc[i,"score"]-kmeans_result.loc[i-1,"score"])/(kmeans_result.loc[i+1,"score"]-kmeans_result.loc[i,"score"])
         except:
             pass
-    sns.lineplot(x=kmeans_i,y=kmeans_score)
+    #sns.lineplot(x=kmeans_i,y=kmeans_score)
     if columns is None:
         best = kmeans_result.i[kmeans_result["elbow"] == kmeans_result["elbow"].max()].values[0]
         print("Best match identified: {} columns".format(best))
@@ -186,3 +186,14 @@ def clean_nutriment_table(nut_table_raw, nut_tax, langu, threshold = 70):# ident
             except:
                 pass
     return nut_table_clean[nut_table_clean["score_label"]>=threshold]
+
+# =============================================================================
+# Export results to JSON
+# =============================================================================
+
+def nut_table_to_JSON(nut_table_clean, file):
+    nut_table_clean["nut_from_taxonomy"] = nut_table_clean.index
+    nut_table_clean.index = [a for a in range(0, len(nut_table_clean))]
+    nut_table_clean.to_json(file, orient='index', force_ascii = False)
+    print("nutriment table exported to {}".format(file))
+    
