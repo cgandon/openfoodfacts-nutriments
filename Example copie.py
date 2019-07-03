@@ -23,6 +23,30 @@ except:
 data = gn.ocr_json_load(test_ocr)
 #gn.show_ocr_source_image(test_image)
 content, langu, height = gn.ocr_json_extract(data)
+###
+
+kmeans_i = []
+kmeans_score = []
+for i in range(1,10):
+    kmeans_i.append(i)
+    kmeans_tmp = KMeans(n_clusters = i,
+                init="k-means++",
+                max_iter = 400,
+                n_init = 10,
+                random_state = 0)
+    result_tmp = kmeans_tmp.fit(content["mean_x"].values.reshape(-1,1))
+    kmeans_score.append(kmeans_tmp.inertia_)
+kmeans_result = pd.DataFrame()
+kmeans_result["i"] = kmeans_i
+kmeans_result["score"] = kmeans_score
+
+
+
+
+
+
+
+###
 kmeans_tmp = gn.find_nb_columns(content)
 nut_table_raw = gn.build_nutriment_table(content, kmeans_tmp, height/50)
 nut_table_clean = gn.clean_nutriment_table(nut_table_raw, nut_tax, langu)

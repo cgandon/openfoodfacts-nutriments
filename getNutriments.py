@@ -62,7 +62,6 @@ def show_ocr_source_image(image): # show the source image up on screen
     cv2.waitKey(-1)
     cv2.destroyWindow('image')
 
-
 # =============================================================================
 # Extract texts, language and image size from OCR content
 # =============================================================================
@@ -83,6 +82,8 @@ def ocr_json_extract(data): # extract content from OCR file with texts and bound
                     content.loc[n,coord]=0
         n+=1
     height = data["fullTextAnnotation"]["pages"][0]["height"]
+    content["mean_x"] = (content["x0"] + content["x1"]) / 2
+    content["mean_y"] = (content["y0"] + content["y1"]) / 2
 #    sorted = content.sort_values("y3", ascending=False).sort_values("x0", ascending=True) # sort ascending by upper left point Y coordinates, then lower left point X coordinates
     return content, data["textAnnotations"][0]["locale"], height
 
@@ -101,7 +102,7 @@ def find_nb_columns(content,columns = None):
                     max_iter = 400,
                     n_init = 10,
                     random_state = 0)
-        result_tmp = kmeans_tmp.fit(content.loc[:,"x0"].values.reshape(-1,1))
+        result_tmp = kmeans_tmp.fit(content["mean_x"].values.reshape(-1,1))
         kmeans_score.append(kmeans_tmp.inertia_)
     kmeans_result = pd.DataFrame()
     kmeans_result["i"] = kmeans_i
@@ -137,7 +138,7 @@ def build_nutriment_table(content, kmeans_tmp, eps): # map text into back into a
     content["kmeans_3"] = kmeans_tmp.labels_
 
     # build lines (better use DBSCAN when you cannot tell how many centroids in advance)
-    dbscan = DBSCAN(algorithm='auto', eps=eps, metric='euclidean', metric_params=None, min_samples=1, n_jobs=None, p=None).fit(content.loc[:,"y0"].values.reshape(-1,1))
+    dbscan = DBSCAN(algorithm='auto', eps=eps, metric='euclidean', metric_params=None, min_samples=1, n_jobs=None, p=None).fit(content["mean_y"].values.reshape(-1,1))
     dbscan.labels_
     content["dbscan"] = dbscan.labels_
 
