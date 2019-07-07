@@ -1,0 +1,10 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Glucides,Glucides,Glucides,100.0,1.0
+1,,dont sucres,"Sucres, sucre",14 S,71.0,2.0
+2,,Matières grasses dont:,"Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse",92 S,86.0,2.0
+3,,acides gras satures,"Acides gras saturés, Saturés, AGS",14 S,88.0,2.0
+4,,acides gras mono-insaturés,"Acides gras monoinsaturés, Acides gras mono-insaturés",69 S,100.0,2.0
+5,,acides gras polyinsatures,Acides gras trans,99,79.0,2.0
+6,,Sel,"Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible",,100.0,0.0
+7,,Vitamine E,Vitamine E (tocophérol),17 mg,100.0,3.0
+8,https://static.openfoodfacts.org/images/products/80508816/nutrition_fr.34.400.jpg,,,,,

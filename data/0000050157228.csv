@@ -1,0 +1,9 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Energy,Energy,1215KJ,100.0,4.0
+1,,Fat,Energy from fat,3.6g 5%,100.0,4.0
+2,,Carbohydrate,Carbohydrate,2.8g 1%,100.0,4.0
+3,,-of which sugars,Sugars,2.6g 3%,100.0,4.0
+4,,Salt,"salt, table salt, common salt, cooking salt, dry salt",0.2g 4%,100.0,4.0
+5,,Protein,Collagen/Meat protein ratio (maximum),0.2g <%,100.0,3.0
+6,,NUTRITION,Nutrition score - UK,,100.0,0.0
+7,https://static.openfoodfacts.org/images/products/50157228/nutrition_fr.9.400.jpg,,,,,

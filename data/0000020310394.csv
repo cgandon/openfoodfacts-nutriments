@@ -1,0 +1,6 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Glucides,Glucides,40.9,100.0,3.0
+1,,dont sucres,"Sucres, sucre","36,69",71.0,4.0
+2,,dont acides gras,"Acides gras saturés, Saturés, AGS",satures 9.5,81.0,2.0
+3,,Sel,"Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible","O,19",100.0,2.0
+4,https://static.openfoodfacts.org/images/products/20310394/nutrition_fr.8.400.jpg,,,,,

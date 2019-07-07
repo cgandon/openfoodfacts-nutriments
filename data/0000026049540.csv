@@ -1,0 +1,13 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Valeurs,"Énergie, valeurs énergétique, valeur énergétique",,100.0,0.0
+1,,Protéines,"Protéines, Protéine brute","4,4g",100.0,3.0
+2,,Glucides,Glucides,19 g,100.0,3.0
+3,,-dont sucres,"Sucres, sucre",18 g,71.0,3.0
+4,,Matières grasses,"Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse","3,4g",100.0,3.0
+5,,- gras saturés,"Acides gras saturés, Saturés, AGS","2,3 g",100.0,3.0
+6,,9 %,"Acides gras Oméga 9, Oméga 9","4,4g",100.0,3.0
+7,,6%,"Acides gras Oméga 6, Oméga 6",524 kJ,100.0,3.0
+8,,Sel,"Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible","0,12 g",100.0,4.0
+9,,*Apport,"Minéral, Minéraux, Substances d'apport minéral, Apport minéral, mineraux, Sels minéraux",,100.0,0.0
+10,,nutritionnelles,Note nutritionnelle,,82.0,0.0
+11,https://static.openfoodfacts.org/images/products/26049540/nutrition_fr.7.400.jpg,,,,,

@@ -1,0 +1,7 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Gucides,Glucides,<0.50,93.0,3.0
+1,,Cont sucres,"Sucres, sucre",<Q.5g,71.0,2.0
+2,,saturés .8g,"Acides gras saturés, Saturés, AGS",saturés .8g,80.0,2.0
+3,,cont a cides gras,Acides gras trans,saturés .8g,76.0,2.0
+4,,Sel,"Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible",,100.0,0.0
+5,https://static.openfoodfacts.org/images/products/80422235/nutrition_fr.7.400.jpg,,,,,

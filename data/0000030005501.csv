@@ -1,0 +1,7 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Glucides,Glucides,Glucides,100.0,1.0
+1,,sucres,"Sucres, sucre",,100.0,0.0
+2,,Matières,"Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse",,100.0,0.0
+3,,Dont acides gras saturés,"Acides gras saturés, Saturés, AGS",15g,90.0,3.0
+4,,Sel,"Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible",,100.0,0.0
+5,https://static.openfoodfacts.org/images/products/30005501/nutrition_fr.33.400.jpg,,,,,

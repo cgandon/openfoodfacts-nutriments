@@ -1,0 +1,10 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Energie/Energie,Energie,181,100.0,3.0
+1,,Eiwitten,Eiwitten,,100.0,0.0
+2,,Koolhydraten,Koolhydraten,"9.8g,",100.0,3.0
+3,,suikers,Suikers,9.1g,100.0,3.0
+4,,grasses/Vetten,Vetten,0.1,100.0,2.0
+5,,verzadigde,Verzadigde vetzuren,gras saturés/waarvan,100.0,1.0
+6,,alimentaires/Vezels,Vezels,,100.0,0.0
+7,,Zout,"zout, Keukenzout",0.4g Salt/Sel/,100.0,3.0
+8,https://static.openfoodfacts.org/images/products/00030113/nutrition_fr.9.400.jpg,,,,,

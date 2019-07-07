@@ -1,0 +1,11 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Valeurs,"Énergie, valeurs énergétique, valeur énergétique",266kcal,100.0,3.0
+1,,Protéines,"Protéines, Protéine brute",,100.0,0.0
+2,,Glucides,Glucides,Glucides,100.0,1.0
+3,,Sucres,"Sucres, sucre",,100.0,0.0
+4,,grasses,"Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse",0.0g,100.0,3.0
+5,,gras,"Acides gras saturés, Saturés, AGS",65.98,100.0,4.0
+6,,Sel,"Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible",,100.0,0.0
+7,,et,Fruits - légumes et noix,,100.0,0.0
+8,,NUTRITIONNFLLES,Note nutritionnelle,,76.0,0.0
+9,https://static.openfoodfacts.org/images/products/50172474/nutrition_fr.9.400.jpg,,,,,

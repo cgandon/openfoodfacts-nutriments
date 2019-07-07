@@ -23,6 +23,30 @@ import seaborn as sns
 from fuzzywuzzy import process
 from fuzzywuzzy import fuzz
 import numpy as np
+import requests
+from PIL import Image
+from io import BytesIO
+import matplotlib.pyplot as plt
+
+# =============================================================================
+# get product data
+# =============================================================================
+
+def get_product_data(prod):
+#    prod = "3560070762255"
+    url_ocr = "https://world.openfoodfacts.org/cgi/nutrition.pl?code={}&id=nutrition_fr&process_image=1&ocr_engine=google_cloud_vision&annotations=1".format(prod)
+    try:
+        prd_json = r.get("https://world.openfoodfacts.org/api/v0/product/{}.json".format(prod)).json()
+        url_nutri = prd_json["product"]["image_nutrition_url"]
+        json_ocr = r.get(url_ocr).json()["nutrition_text_from_image_annotations"]["responses"][0]
+        status="ok"
+#    plt.imshow(test_image)
+    except:
+        status="ko"
+        json_ocr = None
+        url_nutri = None
+    return url_nutri, json_ocr, status
+    
 
 # =============================================================================
 # Collect Taxonomy information
@@ -41,6 +65,7 @@ def get_taxonomy(nut_file='nutriments.txt') :
         except:
             pass
     return nut_tax
+
 
 # =============================================================================
 # Load OCR JSON file
@@ -102,8 +127,13 @@ def find_nb_columns(content,columns = None):
                     max_iter = 400,
                     n_init = 10,
                     random_state = 0)
-        result_tmp = kmeans_tmp.fit(content["mean_x"].values.reshape(-1,1))
-        kmeans_score.append(kmeans_tmp.inertia_)
+        try:
+            result_tmp = kmeans_tmp.fit(content["mean_x"].values.reshape(-1,1))
+            kmeans_score.append(kmeans_tmp.inertia_)
+
+        except:
+            result_tmp = None
+            kmeans_score.append(0)
     kmeans_result = pd.DataFrame()
     kmeans_result["i"] = kmeans_i
     kmeans_result["score"] = kmeans_score
@@ -189,12 +219,24 @@ def clean_nutriment_table(nut_table_raw, nut_tax, langu, threshold = 70):# ident
     return nut_table_clean[nut_table_clean["score_label"]>=threshold]
 
 # =============================================================================
-# Export results to JSON
+# Combine all into 1 function
+# =============================================================================
+
+def get_nutriments(json_ocr,  nut_tax):
+#    data = ocr_json_load(test_ocr)
+    content, langu, height = ocr_json_extract(json_ocr)
+    kmeans_tmp = find_nb_columns(content)
+    nut_table_raw = build_nutriment_table(content, kmeans_tmp, height/50)
+    nut_table_clean = clean_nutriment_table(nut_table_raw, nut_tax, langu)
+    nut_table_clean["nut_from_taxonomy"] = nut_table_clean.index
+    nut_table_clean.index = [a for a in range(0, len(nut_table_clean))]
+    return nut_table_clean.to_json(orient='index', force_ascii = False), nut_table_clean 
+
+# =============================================================================
+# download results to JSON
 # =============================================================================
 
 def nut_table_to_JSON(nut_table_clean, file):
-    nut_table_clean["nut_from_taxonomy"] = nut_table_clean.index
-    nut_table_clean.index = [a for a in range(0, len(nut_table_clean))]
     nut_table_clean.to_json(file, orient='index', force_ascii = False)
     print("nutriment table exported to {}".format(file))
-    
+ 

@@ -1,0 +1,9 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,VALEURS,"Énergie, valeurs énergétique, valeur énergétique",,100.0,0.0
+1,,Protéines,"Protéines, Protéine brute",6.0 g,100.0,3.0
+2,,Glucides dont sucres,Glucides,55 g 26 g,100.0,6.0
+3,,Matieres grasses dont acides gras saturés,"Acides gras saturés, Saturés, AGS","23 g 2,5 g",90.0,6.0
+4,,Fibres alimentaires,"Fibres alimentaires,fibres, fibre, fibre alimentaire","1,5 g",100.0,3.0
+5,,Sel,"Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible","0,68 g",100.0,4.0
+6,,NUTRITIONNELLES,Note nutritionnelle,1 madeleine,82.0,1.0
+7,https://static.openfoodfacts.org/images/products/000010/nutrition_fr.9.400.jpg,,,,,

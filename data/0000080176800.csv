@@ -1,0 +1,11 @@
+,0,label found,nut_from_taxonomy,quantity,score_label,score_quant
+0,,Energy,Energy,2252,100.0,4.0
+1,,Fat,Energy from fat,30.9,100.0,3.0
+2,,Carbohydrates,Carbohydrate,57.5,96.0,3.0
+3,,Sugars,Sugars,56.3,100.0,3.0
+4,,Saturates,Saturated fat,10.6,73.0,3.0
+5,,9%,Omega 9 fatty acids,56.3,100.0,3.0
+6,,3 %,Omega 3 fatty acids,57.5,100.0,3.0
+7,,Salt,"salt, table salt, common salt, cooking salt, dry salt",,100.0,0.0
+8,,Protein,Collagen/Meat protein ratio (maximum),,100.0,0.0
+9,https://static.openfoodfacts.org/images/products/80176800/nutrition_en.42.400.jpg,,,,,
