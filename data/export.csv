@@ -1,0 +1,622 @@
+|product|url|label found|score_label|quantity|score_quant|nut_from_taxonomy
+0|0000000011686|https://static.openfoodfacts.org/images/products/00011686/nutrition_fr.17.400.jpg|||||
+1|||Energy kJ/Energie/Energie|100.0|76 446|5.0|Energy
+2|||Carbohydrate/Glucides/Kool|100.0|hydraten 34.7g 5.9g|7.0|Carbohydrate
+3|||of which sugars|100.0|of which sugars|1.0|Sugars
+4|||Fat/Matières grasses/Vetten|100.0|11.0g 1.9g|7.0|Fat
+5|||Suitable for vegetarians NUTRITION Serves/Portions/Porties:|75.0|"per 15| per 100g cookie (17.19J"|10.0|Nutrition grade
+6|0000000027083|https://static.openfoodfacts.org/images/products/00027083/nutrition_fr.16.400.jpg|||||
+7|||Energie 1513KJ/362kcal|100.0|Energie 1513KJ/362kcal|8.0|Energie
+8|||Protein/Protéines/Eiwitten|100.0||0.0|Eiwitten
+9|||Koolhydraten|100.0|42.3g, of|4.0|Koolhydraten
+10|||suikers|100.0||0.0|Suikers
+11|||Vetten 19.9g,|100.0|Vetten 19.9g,|4.0|Vetten
+12|||verzadigde|100.0|vetzuren 2.5g|3.0|Verzadigde vetzuren
+13|0000000030113|https://static.openfoodfacts.org/images/products/00030113/nutrition_fr.9.400.jpg|||||
+14|||Energie/Energie|100.0|181|3.0|Energie
+15|||Eiwitten|100.0||0.0|Eiwitten
+16|||Koolhydraten|100.0|9.8g,|3.0|Koolhydraten
+17|||suikers|100.0|9.1g|3.0|Suikers
+18|||grasses/Vetten|100.0|0.1|2.0|Vetten
+19|||verzadigde|100.0|gras saturés/waarvan|1.0|Verzadigde vetzuren
+20|||alimentaires/Vezels|100.0||0.0|Vezels
+21|||Zout|100.0|0.4g Salt/Sel/|3.0|zout, Keukenzout
+22|0000020004552|https://static.openfoodfacts.org/images/products/20004552/nutrition_en.21.400.jpg|||||
+23|0000020048402|https://static.openfoodfacts.org/images/products/20048402/nutrition_fr.5.400.jpg|||||
+24|||énergétique Koolhydraten/Glucides suiker/dont|100.0|verzadigde gras sel de per Journaliers|2.0|Glucides
+25|||sucres|100.0||0.0|Sucres, sucre
+26|||saturés|100.0||0.0|Acides gras saturés, Saturés, AGS
+27|||alimentaires|100.0||0.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+28|||acides Voedingsvezels/Fibres Natrium/Sodium kcal|100.0|acides Voedingsvezels/Fibres Natrium/Sodium kcal|1.0|Sodium
+29|||waarvan Equivalent *GDA-Van 2000|74.0|waarvan Equivalent *GDA-Van 2000|5.0|Equivalent en sel
+30|||nutritionnelles/100g|77.0|nutritionnelles/100g|4.0|Note nutritionnelle
+31|0000020310394|https://static.openfoodfacts.org/images/products/20310394/nutrition_fr.8.400.jpg|||||
+32|||Glucides|100.0|40.9|3.0|Glucides
+33|||dont sucres|71.0|36,69|4.0|Sucres, sucre
+34|||dont acides gras|81.0|satures 9.5|2.0|Acides gras saturés, Saturés, AGS
+35|||Sel|100.0|O,19|2.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+36|0000020615284|https://static.openfoodfacts.org/images/products/20615284/nutrition_fr.25.400.jpg|||||
+37|||Énergie|100.0|2003 kJ 487 kcal|7.0|Énergie, valeurs énergétique, valeur énergétique
+38|||Protéines|100.0|0,1 g|3.0|Protéines, Protéine brute
+39|||Glucides|100.0|0,2 g|3.0|Glucides
+40|||dont sucres|71.0|0,2 g|3.0|Sucres, sucre
+41|||Matières grasses|100.0|54 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+42|||dont acides gras saturés|90.0|14g|3.0|Acides gras saturés, Saturés, AGS
+43|||Sel|100.0|0,40 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+44|||DECLARATION NUTRITIONNELLE|85.0||0.0|Note nutritionnelle
+45|0000026019420|https://static.openfoodfacts.org/images/products/26019420/nutrition_fr.7.400.jpg|||||
+46|||Valeurs|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+47|||Glucides|100.0|13%|2.0|Glucides
+48|||-dont sucres|71.0|1%|1.0|Sucres, sucre
+49|||4,4 g Matières grasses|88.0|149 20%|5.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+50|||gras|100.0|gras|1.0|Acides gras saturés, Saturés, AGS
+51|0000026049540|https://static.openfoodfacts.org/images/products/26049540/nutrition_fr.7.400.jpg|||||
+52|||Valeurs|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+53|||Protéines|100.0|4,4g|3.0|Protéines, Protéine brute
+54|||Glucides|100.0|19 g|3.0|Glucides
+55|||-dont sucres|71.0|18 g|3.0|Sucres, sucre
+56|||Matières grasses|100.0|3,4g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+57|||- gras saturés|100.0|2,3 g|3.0|Acides gras saturés, Saturés, AGS
+58|||9 %|100.0|4,4g|3.0|Acides gras Oméga 9, Oméga 9
+59|||6%|100.0|524 kJ|3.0|Acides gras Oméga 6, Oméga 6
+60|||Sel|100.0|0,12 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+61|||*Apport|100.0||0.0|Minéral, Minéraux, Substances d'apport minéral, Apport minéral, mineraux, Sels minéraux
+62|||nutritionnelles|82.0||0.0|Note nutritionnelle
+63|0000026065755|https://static.openfoodfacts.org/images/products/26065755/nutrition_fr.8.400.jpg|||||
+64|||Protéines|100.0||0.0|Protéines, Protéine brute
+65|||Glucides|100.0|0,19|3.0|Glucides
+66|||dont sucres|71.0||0.0|Sucres, sucre
+67|||grasses|100.0|80g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+68|||gras saturés|100.0|53 g|3.0|Acides gras saturés, Saturés, AGS
+69|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+70|0000030000117|https://static.openfoodfacts.org/images/products/30000117/nutrition_fr.53.400.jpg|||||
+71|||Protéines|100.0|17 g|3.0|Protéines, Protéine brute
+72|||Glucides|100.0|0,5 g|3.0|Glucides
+73|||Dont sucres|71.0|0,2g|3.0|Sucres, sucre
+74|||Matières grasses|100.0|23 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+75|||Dont acides gras saturés|90.0|9 g 0117|6.0|Acides gras saturés, Saturés, AGS
+76|||Sel|100.0|1.5a|2.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+77|||nutritionnelle|100.0|Pour 100 g|4.0|Note nutritionnelle
+78|0000030005501|https://static.openfoodfacts.org/images/products/30005501/nutrition_fr.33.400.jpg|||||
+79|||Glucides|100.0|Glucides|1.0|Glucides
+80|||sucres|100.0||0.0|Sucres, sucre
+81|||Matières|100.0||0.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+82|||Dont acides gras saturés|90.0|15g|3.0|Acides gras saturés, Saturés, AGS
+83|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+84|0000040122250|https://static.openfoodfacts.org/images/products/40122250/nutrition_fr.18.400.jpg|||||
+85|||Protéines|100.0|0.9g|3.0|Protéines, Protéine brute
+86|||Glucides|100.0|Glucides|1.0|Glucides
+87|||sucres|100.0|4.7g|3.0|Sucres, sucre
+88|||grasses|100.0|0.2g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+89|||gras saturés|100.0|0.1g|3.0|Acides gras saturés, Saturés, AGS
+90|0000040122274|https://static.openfoodfacts.org/images/products/40122274/nutrition_fr.78.400.jpg|||||
+91|||Valeurs|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+92|||Protéines|100.0|0.9g|3.0|Protéines, Protéine brute
+93|||Glucides|100.0|4.9g|3.0|Glucides
+94|||dont sucres|71.0|4.7g|3.0|Sucres, sucre
+95|||Matières|100.0|0.2g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+96|||gras saturés|100.0|<0.1g|3.0|Acides gras saturés, Saturés, AGS
+97|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+98|||nutritionnelles|82.0||0.0|Note nutritionnelle
+99|0000040122878|https://static.openfoodfacts.org/images/products/40122878/nutrition_fr.11.400.jpg|||||
+100|||Glucides|100.0|<0.1g|3.0|Glucides
+101|||gras|100.0|gras|1.0|Acides gras saturés, Saturés, AGS
+102|||nutritfionnelles|80.0||0.0|Note nutritionnelle
+103|0000042188889|https://static.openfoodfacts.org/images/products/42188889/nutrition_fr.12.400.jpg|||||
+104|||64,3 g), PROTEINE|100.0|64,3 g), PROTEINE|4.0|Proteine
+105|||SATURATI O g), GLUCIDE 64,3 g (DIN CARE ZAHARURI|100.0|SATURATI O g), GLUCIDE 64,3 g (DIN CARE ZAHARURI|6.0|Zaharuri
+106|||O g, POLIOLI O g, SARE 0 g|100.0|SATURATI O g), GLUCIDE 64,3 g (DIN CARE ZAHARURI|6.0|Polioli
+107|0000050157228|https://static.openfoodfacts.org/images/products/50157228/nutrition_fr.9.400.jpg|||||
+108|||Energy|100.0|1215KJ|4.0|Energy
+109|||Fat|100.0|3.6g 5%|4.0|Energy from fat
+110|||Carbohydrate|100.0|2.8g 1%|4.0|Carbohydrate
+111|||-of which sugars|100.0|2.6g 3%|4.0|Sugars
+112|||Salt|100.0|0.2g 4%|4.0|salt, table salt, common salt, cooking salt, dry salt
+113|||Protein|100.0|0.2g <%|3.0|Collagen/Meat protein ratio (maximum)
+114|||NUTRITION|100.0||0.0|Nutrition score - UK
+115|0000050172474|https://static.openfoodfacts.org/images/products/50172474/nutrition_fr.9.400.jpg|||||
+116|||Valeurs|100.0|266kcal|3.0|Énergie, valeurs énergétique, valeur énergétique
+117|||Protéines|100.0||0.0|Protéines, Protéine brute
+118|||Glucides|100.0|Glucides|1.0|Glucides
+119|||Sucres|100.0||0.0|Sucres, sucre
+120|||grasses|100.0|0.0g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+121|||gras|100.0|65.98|4.0|Acides gras saturés, Saturés, AGS
+122|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+123|||et|100.0||0.0|Fruits - légumes et noix
+124|||NUTRITIONNFLLES|76.0||0.0|Note nutritionnelle
+125|0000050214211|https://static.openfoodfacts.org/images/products/50214211/nutrition_en.9.400.jpg|||||
+126|||COUPE|73.0||0.0|copper
+127|0000050214228|https://static.openfoodfacts.org/images/products/50214228/nutrition_en.9.400.jpg|||||
+128|0000054491472|https://static.openfoodfacts.org/images/products/54491472/nutrition_fr.13.400.jpg|||||
+129|||Energetische waarde/Valeur énergétique:|78.0|180 kJ. 42 kcal $|5.0|Énergie, valeurs énergétique, valeur énergétique
+130|||Koolhydraten /Glucides: 10.6 g dont acides|100.0|Koolhydraten /Glucides: 10.6 g dont acides|5.0|Glucides
+131|||gras saturés|100.0|Koolhydraten /Glucides: 10.6 g dont acides|5.0|Acides gras saturés, Saturés, AGS
+132|||alimentaires.O|92.0|waarvan suikers/dont sucres:10.6 g Voedingsvezels/Fibres|5.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+133|||Sodium:|100.0|Vetten /Lipides Og Natrium/|1.0|Sodium
+134|||FR|80.0||0.0|Fer
+135|0000054491496|https://static.openfoodfacts.org/images/products/54491496/nutrition_en.16.400.jpg|||||
+136|||Energy 1.6kJ/|100.0|Energy 1.6kJ/|3.0|Energy
+137|||Carbohydrate|100.0|Og Og (02)|4.0|Carbohydrate
+138|||of which sugars|100.0|Og Og (0%)|3.0|Sugars
+139|||Fat, Saturates,|100.0||0.0|Fat
+140|||Protein.|100.0||0.0|Collagen/Meat protein ratio (maximum)
+141|||NUTRITION INFORMATION|75.0||0.0|Nutrition grade
+142|0000054492790|https://static.openfoodfacts.org/images/products/54492790/nutrition_fr.33.400.jpg|||||
+143|||Sucres|100.0||0.0|Sucres, sucre
+144|||Matières|100.0||0.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+145|||Acides gras|100.0|Acides gras|1.0|Acides gras saturés, Saturés, AGS
+146|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+147|0000057023373|https://static.openfoodfacts.org/images/products/57023373/nutrition_fr.38.400.jpg|||||
+148|||gras|100.0|gras|1.0|Acides gras saturés, Saturés, AGS
+149|||nutritionnelle/100g:|85.0|nutritionnelle/100g:|4.0|Note nutritionnelle
+150|0000057023618|https://static.openfoodfacts.org/images/products/57023618/nutrition_fr.11.400.jpg|||||
+151|||<0,1g,dont polyols 95 g-Protéines|100.0|0,2g-Sel<0,01g.|7.0|Polyols
+152|||kcal-Matières|74.0|grasses 0,4g, dont|4.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+153|||gras|100.0|gras|1.0|Acides gras saturés, Saturés, AGS
+154|||Information nutritionnelle/100|85.0|Information nutritionnelle/100|3.0|Note nutritionnelle
+155|0000057023632|https://static.openfoodfacts.org/images/products/57023632/nutrition_fr.29.400.jpg|||||
+156|||0,1 g, dont polyols 96g-Proteines|100.0|0,2g-Sel<0,01|6.0|Polyols
+157|||addes gras saturés<0,1|74.0|g-Gludides 96 dont suares|4.0|Acides gras saturés, Saturés, AGS
+158|||Information nutritionnelle/100|85.0|Information nutritionnelle/100|3.0|Note nutritionnelle
+159|0000069062063|https://static.openfoodfacts.org/images/products/69062063/nutrition_fr.7.400.jpg|||||
+160|||VALEURS NUTRITIONNELLES DNÄHRWERTANGABEN DICHIARAZIONE NUTRIZIONALE NL VOEDINGSWAARDEN INFORMACIÓN NUTRICIONAL Energie/Brennwert/Energia/Energie/Valor energético Matières grasses /Fett/ Grassi / Vetten/ Grasas dont acides gras saturés/ davon gesättigte Fettsäuren /di cui acidi waarvan verzadigde vetzuren / de las cuales saturadas Glucides/ Kohlenhydrate/Carboidrati/ Koolhydraten / Hidratos dont sucres / davon Zucker /di cui zuccheri /waarvan suikers / de los cuales azúcares Fibres alimentaires/ Ballaststoffe / Fibre / Vezels/ Fibra alimentaria Protéines / Eiweiß /Proteine / Eiwitten/ Proteínas Sel/ Salz /Sale/Zout/ Sal Nombre de pièces par emballage : 10/Anzahl Stück pro Packung: Aantal stuks per verpakking: 10/Cantidad de piezas por unidad|100.0|Par pièce / Pro Stück / Per pezzo / Per stuk / Por unidad 50g Pour /Pro/ Per/ Per/Por 100 g 340 kJ/81 kcal 3,3 g 680 kJ/162 kcal 6,6 g grassi saturi / de carbono 0,9 g 8,5 g 1,7 g 17 g 1,8 g 0,4 g 4,1 g 0,36 g 3,7 g 0,9 g 8,2 g 0,73 g 10/Numero di pezzi per confezione: 10/ de venta: 10|69.0|Proteínas
+161|0000075001629|https://static.openfoodfacts.org/images/products/75001629/nutrition_fr.22.400.jpg|||||
+162|||LA CERVEZA HECHA CON PARA UN, SABOR THE BEER BREWED WITH FOR A GREAT REFRESHING Bewed and bottled by Moctezuma under supervision of Cervecería S.A. de C.V., Monterrey, O iler Ingrediënten: water, gerstemout, wedingswaarde per 100 ml: energie Sol consumentenservice: Antwoordnummer Amsterdam. Ten minste houdbaar IMPORTER: HEINEKEN HONG KONG IMPORTER: GALSON COMPANY Imported to UK by Heineken UK FEHI2 917. Consumer care e-mail: Imported to Ireland by Heineken Consumer information hotline e.Ingredients: water, malted barley, onal values per 100ml: energy Ingredients: eau, malt d'orge, rs nutritionnelles pour 100ml: PLEASE ENJOY RESPONSIBLY UK CHIEF MEDICAL OFFICERS RECOMMEND THAT UILTS DO NOT REGULARLY EXCEED MEN WOMEN 3-4 UNITS DAILY 2-3 UNITS DAILY VINKAWARE.CO.K for the facts BEER BIERE BIER ØL Ra EFORE/ER (DA/MA/YE) ON-2018 173528H1113 33c1/330mle|100.0|SOL, PASIÓN Y ALMA REFRESCANTE SUN, PASSION AND SOUL TASTE Brewing Co. in the Netherand Cuauhtémoc Moctezuma Mexico. glucosestroop, hopertat 166 kJ/ 40 kcal. 39381, 1090 WC tot einde: zie etiket fles. LTD., TEL:(852) 2259 7188 LIMITED, TEL: (853) 2893 0200 Limited, 3-4 Broadway Park, Ediued sol@sol-beer.co.uk or call: 0345 Ireland Ltd., Leitrim Street,Lonk 1850 514466. www.drinkaware.it glucose syrup, hop extrad 166 kJ/ 40 kcal. Best before end se sirop de gluCose, extraits de fo énergie 166 kJ/ 40 kcal www.so BOTTLE DRINK RESA GLASS widely recycled CERVEZA 18|70.0|Energy
+163|||SOL, PASIÓN Y ALMA REFRESCANTE SUN, PASSION AND SOUL TASTE Brewing Co. in the Netherand Cuauhtémoc Moctezuma Mexico. glucosestroop, hopertat 166 kJ/ 40 kcal. 39381, 1090 WC tot einde: zie etiket fles. LTD., TEL:(852) 2259 7188 LIMITED, TEL: (853) 2893 0200 Limited, 3-4 Broadway Park, Ediued sol@sol-beer.co.uk or call: 0345 Ireland Ltd., Leitrim Street,Lonk 1850 514466. www.drinkaware.it glucose syrup, hop extrad 166 kJ/ 40 kcal. Best before end se sirop de gluCose, extraits de fo énergie 166 kJ/ 40 kcal www.so BOTTLE DRINK RESA GLASS widely recycled CERVEZA 18|100.0|SOL, PASIÓN Y ALMA REFRESCANTE SUN, PASSION AND SOUL TASTE Brewing Co. in the Netherand Cuauhtémoc Moctezuma Mexico. glucosestroop, hopertat 166 kJ/ 40 kcal. 39381, 1090 WC tot einde: zie etiket fles. LTD., TEL:(852) 2259 7188 LIMITED, TEL: (853) 2893 0200 Limited, 3-4 Broadway Park, Ediued sol@sol-beer.co.uk or call: 0345 Ireland Ltd., Leitrim Street,Lonk 1850 514466. www.drinkaware.it glucose syrup, hop extrad 166 kJ/ 40 kcal. Best before end se sirop de gluCose, extraits de fo énergie 166 kJ/ 40 kcal www.so BOTTLE DRINK RESA GLASS widely recycled CERVEZA 18|70.0|glucose
+164|0000080176800|https://static.openfoodfacts.org/images/products/80176800/nutrition_en.42.400.jpg|||||
+165|||Energy|100.0|2252|4.0|Energy
+166|||Fat|100.0|30.9|3.0|Energy from fat
+167|||Carbohydrates|96.0|57.5|3.0|Carbohydrate
+168|||Sugars|100.0|56.3|3.0|Sugars
+169|||Saturates|73.0|10.6|3.0|Saturated fat
+170|||9%|100.0|56.3|3.0|Omega 9 fatty acids
+171|||3 %|100.0|57.5|3.0|Omega 3 fatty acids
+172|||Salt|100.0||0.0|salt, table salt, common salt, cooking salt, dry salt
+173|||Protein|100.0||0.0|Collagen/Meat protein ratio (maximum)
+174|0000080422235|https://static.openfoodfacts.org/images/products/80422235/nutrition_fr.7.400.jpg|||||
+175|||Gucides|93.0|<0.50|3.0|Glucides
+176|||Cont sucres|71.0|<Q.5g|2.0|Sucres, sucre
+177|||saturés .8g|80.0|saturés .8g|2.0|Acides gras saturés, Saturés, AGS
+178|||cont a cides gras|76.0|saturés .8g|2.0|Acides gras trans
+179|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+180|0000080508816|https://static.openfoodfacts.org/images/products/80508816/nutrition_fr.34.400.jpg|||||
+181|||Glucides|100.0|Glucides|1.0|Glucides
+182|||dont sucres|71.0|14 S|2.0|Sucres, sucre
+183|||Matières grasses dont:|86.0|92 S|2.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+184|||acides gras satures|88.0|14 S|2.0|Acides gras saturés, Saturés, AGS
+185|||acides gras mono-insaturés|100.0|69 S|2.0|Acides gras monoinsaturés, Acides gras mono-insaturés
+186|||acides gras polyinsatures|79.0|99|2.0|Acides gras trans
+187|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+188|||Vitamine E|100.0|17 mg|3.0|Vitamine E (tocophérol)
+189|0000087157215|https://static.openfoodfacts.org/images/products/87157215/nutrition_fr.19.400.jpg|||||
+190|||Energie/Energie|100.0|435 kJ/102 kcal|6.0|Energie
+191|||Koolhydraten/Glucides|100.0|23,2g|4.0|Koolhydraten
+192|||waarvan suikers/dont|100.0|sucres 22,8g|4.0|Suikers
+193|0000087157635|https://static.openfoodfacts.org/images/products/87157635/nutrition_fr.21.400.jpg|||||
+194|||Koolhydraten /Glucides|100.0|23,2g|4.0|Glucides
+195|||dont sucres|71.0||0.0|Sucres, sucre
+196|||saturés|100.0|dont acides gras|1.0|Acides gras saturés, Saturés, AGS
+197|000010|https://static.openfoodfacts.org/images/products/000010/nutrition_fr.9.400.jpg|||||
+198|||VALEURS|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+199|||Protéines|100.0|6.0 g|3.0|Protéines, Protéine brute
+200|||Glucides dont sucres|100.0|55 g 26 g|6.0|Glucides
+201|||Matieres grasses dont acides gras saturés|90.0|23 g 2,5 g|6.0|Acides gras saturés, Saturés, AGS
+202|||Fibres alimentaires|100.0|1,5 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+203|||Sel|100.0|0,68 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+204|||NUTRITIONNELLES|82.0|1 madeleine|1.0|Note nutritionnelle
+205|000015|https://static.openfoodfacts.org/images/products/000015/nutrition_fr.15.400.jpg|||||
+206|||VALEURS|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+207|||Protéines|100.0|1,3 g|3.0|Protéines, Protéine brute
+208|||Glucides|100.0|11,9 g|4.0|Glucides
+209|||dont sucres|71.0|6,7 g|3.0|Sucres, sucre
+210|||Matières grasses|100.0|5,4 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+211|||dont acides gras saturés|90.0|1,3 g|3.0|Acides gras saturés, Saturés, AGS
+212|||Fibres alimentaires|100.0|0,3 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+213|||Sel|100.0|0,13 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+214|||diphosphate|70.0||0.0|Phosphore
+215|||NUTRITIONNELLES|82.0|1 madeleine|1.0|Note nutritionnelle
+216|000020|https://static.openfoodfacts.org/images/products/000020/nutrition_fr.16.400.jpg|||||
+217|||VALEURS|100.0|Pour 1|1.0|Énergie, valeurs énergétique, valeur énergétique
+218|||Protéines|100.0|1,3 g|3.0|Protéines, Protéine brute
+219|||Glucides|100.0|11,7 g|4.0|Glucides
+220|||dont sucres|71.0|6,5 g|3.0|Sucres, sucre
+221|||Matières grasses|100.0|5,4 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+222|||dont acides gras saturés|90.0|1,3 g|3.0|Acides gras saturés, Saturés, AGS
+223|||Fibres alimentaires|100.0|0,5 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+224|||Sel|100.0|0,13 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+225|||NUTRITIONNELLES|82.0||0.0|Note nutritionnelle
+226|0000241013128|https://static.openfoodfacts.org/images/products/000/024/101/3128/nutrition_fr.10.400.jpg|||||
+227|||4,2 g-Glucides 32 g, dont|100.0|4,2 g-Glucides 32 g, dont|7.0|Glucides
+228|||sucres|100.0||0.0|Sucres, sucre
+229|||des AR -Matières grasses|81.0|Energie 992 kJ (237 kcal) soit 12%|9.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+230|||9,5 g, dont acides gras saturés|90.0|4,2 g-Glucides 32 g, dont|7.0|Acides gras saturés, Saturés, AGS
+231|0000247016406|https://static.openfoodfacts.org/images/products/000/024/701/6406/nutrition_fr.10.400.jpg|||||
+232|||% des.|100.0|beignet*|1.0|Énergie provenant des graisses
+233|||ncides|75.0|20g|3.0|Nucléotides
+234|||Matières grasses|100.0|1,7g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+235|||dont acides aras saturés|80.0|57 12%|4.0|Acides gras saturés, Saturés, AGS
+236|||alimentaires|100.0|3,8g 54a|5.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+237|||mations utritionnelles|73.0|beignet*|1.0|Note nutritionnelle
+238|00002639|https://static.openfoodfacts.org/images/products/00002639/nutrition_fr.10.400.jpg|||||
+239|||alimentaires.|100.0||0.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+240|000030|https://static.openfoodfacts.org/images/products/000030/nutrition_fr.14.400.jpg|||||
+241|||VALEURS|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+242|||Protéines|100.0|1,7 g|3.0|Protéines, Protéine brute
+243|||Glucides|100.0|16,8 g|4.0|Glucides
+244|||dont sucres|71.0|8,4 g|3.0|Sucres, sucre
+245|||Matières grasses|100.0|5,7 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+246|||dont acides gras saturés|90.0|0,8 g|3.0|Acides gras saturés, Saturés, AGS
+247|||Fibres alimentaires|100.0|0,5 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+248|||Sel|100.0|0,20 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+249|||NUTRITIONNELLES|82.0|Pour 1 Cake|1.0|Note nutritionnelle
+250|0000300015742|https://static.openfoodfacts.org/images/products/000/030/001/5742/nutrition_fr.10.400.jpg|||||
+251|||matières|100.0|it 18keal/792KJ;|5.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+252|||ours nutritionnelles|72.0|pour 100g de|4.0|Note nutritionnelle
+253|000031|https://static.openfoodfacts.org/images/products/000031/nutrition_fr.9.400.jpg|||||
+254|||VALEURS|100.0|Pour 1|1.0|Énergie, valeurs énergétique, valeur énergétique
+255|||Protéines|100.0|1,5 g|3.0|Protéines, Protéine brute
+256|||Glucides|100.0|18,0 g|4.0|Glucides
+257|||dont sucres|71.0|10,2 g|4.0|Sucres, sucre
+258|||Matières grasses|100.0|4,5 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+259|||dont acides gras saturés|90.0|0,6 g|3.0|Acides gras saturés, Saturés, AGS
+260|||Fibres alimentaires|100.0|0,5 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+261|||Sel|100.0|0,18 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+262|||NUTRITIONNELLES|82.0||0.0|Note nutritionnelle
+263|000038|https://static.openfoodfacts.org/images/products/000038/nutrition_fr.17.400.jpg|||||
+264|||VALEURS|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+265|||Protéines|100.0|6,0 g|3.0|Protéines, Protéine brute
+266|||Glucides|100.0|17,1 g|4.0|Glucides
+267|||dont sucres|71.0|31 g|3.0|Sucres, sucre
+268|||Matières grasses|100.0|22 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+269|||dont acides gras saturés|90.0|6,0 g|3.0|Acides gras saturés, Saturés, AGS
+270|||Fibres alimentaires|100.0|2,8 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+271|||Sel|100.0|0,60 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+272|||NUTRITIONNELLES|82.0|2|1.0|Note nutritionnelle
+273|000039365|https://static.openfoodfacts.org/images/products/000/039/365//nutrition_fr.7.400.jpg|||||
+274|||NUTRITION|100.0|Per Porzione di 30g: Per Porzione di 100g:|7.0|Nutrition score - UK
+275|||AUTRITION|75.0|Pro Portion (30g): Pro Portion (100g)|7.0|Nutrition grade
+276|000039681|https://static.openfoodfacts.org/images/products/000/039/681//nutrition_fr.9.400.jpg|||||
+277|||NUTRITION|100.0|Pro Portion (100g) Pro Portion (30g):|7.0|Nutrition score - UK
+278|000057954|https://static.openfoodfacts.org/images/products/000/057/954//nutrition_fr.10.400.jpg|||||
+279|||ORGANIC COCONUT PALM SUGAR Per 10g Serving Pro Portion (10g): Par Portion de 10g: Per Porzione di 10g: Por Toma (10g): Pr. Portion på 10g Per 100g Serving Pro Portion (100g): Pour 100g Per Porzione di 100g: Por Toma (100g): Pr. Portion på 100g 379/1612 kcal/kJ NUTRITION: NAHRWERTANGABEN: VALEURS NUTRITIONNELLES: NUTRIZIONALI: NUTRICION NAÆRINGSINDHOLD: Energv/Eneraie/Ėnergie/Valore energetico/Energia/Energi Fat/Fett/Lipides/Grassi/Grasas/Fedt of which saturates/davon gesättigt/Dont acides gras saturés/di cui saturi/de las cuales saturadas/he raf mættede fedtsyrer 38/161 kcal/kJ BO 0 Carbohydrate/Kohlenhydrate/Glucides/Carboidrati/Hidratos de Carbono/Kulhydrat df which sugar/davon Zucker/dont sucres/di cu Zucherilde los cuales azúcares/heraf sukkerarter Fibre Ballaststoffe/Fibres/Fibra/Fibra/Fiber 0.2g|100.0|ORGANIC COCONUT PALM SUGAR Per 10g Serving Pro Portion (10g): Par Portion de 10g: Per Porzione di 10g: Por Toma (10g): Pr. Portion på 10g Per 100g Serving Pro Portion (100g): Pour 100g Per Porzione di 100g: Por Toma (100g): Pr. Portion på 100g 379/1612 kcal/kJ NUTRITION: NAHRWERTANGABEN: VALEURS NUTRITIONNELLES: NUTRIZIONALI: NUTRICION NAÆRINGSINDHOLD: Energv/Eneraie/Ėnergie/Valore energetico/Energia/Energi Fat/Fett/Lipides/Grassi/Grasas/Fedt of which saturates/davon gesättigt/Dont acides gras saturés/di cui saturi/de las cuales saturadas/he raf mættede fedtsyrer 38/161 kcal/kJ BO 0 Carbohydrate/Kohlenhydrate/Glucides/Carboidrati/Hidratos de Carbono/Kulhydrat df which sugar/davon Zucker/dont sucres/di cu Zucherilde los cuales azúcares/heraf sukkerarter Fibre Ballaststoffe/Fibres/Fibra/Fibra/Fiber 0.2g|76.0|Energia
+280|||08/2019 Protein Protein/Protéines/Proteine/Proteinas/Protein Salt/Salz/Sell/Sale/SalSalt bgt 50 KEEP OUT OF REACH OF CHILDREN. Store in a cool dry place. Reseal after use. This product is not suitable for persons aged under sixteen. Do not exceed the recommended usage. Food supplements are not intended to replace a vaned balanced diet. PRODUKT VON KINDERN FERN HALTEN. Kühl und trocken lagern. Beutel nach Nutzung wieder schließen. Produkt ist nicht fur Personen unter 16 Jahren geeignet. Empfohlene Dosis nicht überschreiten. Nahrungseränzungsmittel sind kein Ersalz fur eine ausgewogene und gesunde Ernährung. NE PAS LAISSER A LA PORTÉE DES ENFANTS. Conserver à l'abri de la chaleur et de l'humidité. Refermer le paquet complements alimentaires ne remplacent pas une alimentation équilibrée apres usage. Ce produit n'est pas destiné aux personnes de moins de 16 ans. Ne pas excéder la dose recommandée. Les TENERE LONTANO DALLA PORTATA DEI BAMBINI. Conservare in luogo fresco e asciutto. Sigillare il sacchetto dopo Suso Questo prodoto non è destinato all'uso da parte di persone di età inferiore ai 16 anni. Non superare le dosi spnsiglhate Gli integraton alimentari non sono destinati a sostituire una dieta varia ed equilibrata MANTENGANSE FUERA DEL ALCANCE DE LOS NIÑOS. Almacenar en un lugar fresco y seco Cerrar el envase tras su uso Este producdo no está dirigido a utilizarse en personas menores de 16 años No exceder la dosis recomendada L05 Suplementos nutnicionales no tratan de sustituir una dieta equilibrada y variada gosen efter brug. Dette produkt er ikke egnet til personer under 16 år Overstig ikke anbefalet dosis Kosttiskud er ikke en OPBEVARES UTILGAÆNGELIGT FOR BØRN. Opbevares utilgaængeligt for barn. Opbevares markt og kaligt Forseg! statring for vanerel og balanceret kosi Best Before End Mindesthaitbarkeitsdatum Date De Péremption Da Consumarsi Preferibilmente Entro: 5 0 6 0330 Preferente:|100.0|ORGANIC COCONUT PALM SUGAR Per 10g Serving Pro Portion (10g): Par Portion de 10g: Per Porzione di 10g: Por Toma (10g): Pr. Portion på 10g Per 100g Serving Pro Portion (100g): Pour 100g Per Porzione di 100g: Por Toma (100g): Pr. Portion på 100g 379/1612 kcal/kJ NUTRITION: NAHRWERTANGABEN: VALEURS NUTRITIONNELLES: NUTRIZIONALI: NUTRICION NAÆRINGSINDHOLD: Energv/Eneraie/Ėnergie/Valore energetico/Energia/Energi Fat/Fett/Lipides/Grassi/Grasas/Fedt of which saturates/davon gesättigt/Dont acides gras saturés/di cui saturi/de las cuales saturadas/he raf mættede fedtsyrer 38/161 kcal/kJ BO 0 Carbohydrate/Kohlenhydrate/Glucides/Carboidrati/Hidratos de Carbono/Kulhydrat df which sugar/davon Zucker/dont sucres/di cu Zucherilde los cuales azúcares/heraf sukkerarter Fibre Ballaststoffe/Fibres/Fibra/Fibra/Fiber 0.2g|76.0|Proteine
+281|0000653007548|https://static.openfoodfacts.org/images/products/000/065/300/7548/nutrition_fr.10.400.jpg|||||
+282|||Protéines|100.0|8,3 g|3.0|Protéines, Protéine brute
+283|||Glucides|100.0|52 g|3.0|Glucides
+284|||-dont sucres|71.0|2,0 g|3.0|Sucres, sucre
+285|||Matières grasses|100.0|5,3 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+286|||dont acides gras saturés|90.0|1,0 g|3.0|Acides gras saturés, Saturés, AGS
+287|||bres alimentaires|83.0|4,3 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+288|||Sel|100.0|1,8 g|3.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+289|0000672016408|https://static.openfoodfacts.org/images/products/000/067/201/6408/nutrition_fr.10.400.jpg|||||
+290|||Énergie|100.0|1631 kJ (390 kcal)|7.0|Énergie, valeurs énergétique, valeur énergétique
+291|||Protéines|100.0|0.4200 g|6.0|Protéines, Protéine brute
+292|||Matières grasses dont acides gras saturés Glucides|100.0|24,3 g 4,8 g 46,2 g 26,8 g|15.0|Glucides
+293|||dont sucre Fibres alimentaires|78.0|2,7 g 5,8 g|6.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+294|0000675006567|https://static.openfoodfacts.org/images/products/000/067/500/6567/nutrition_fr.7.400.jpg|||||
+295|||Matières dont Glucides|100.0|valeurs Iovelmes Energie|1.0|Glucides
+296|||sucres|100.0||0.0|Sucres, sucre
+297|||grasses gras|74.0|grasses gras|2.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+298|||acides|100.0|1,3g 04g 46,4g|10.0|Acides gras saturés, Saturés, AGS
+299|000070|https://static.openfoodfacts.org/images/products/000070/nutrition_fr.13.400.jpg|||||
+300|||Valeur énergétique|100.0|1797 kJ|4.0|Énergie, valeurs énergétique, valeur énergétique
+301|||Protéines|100.0|1,8 g|3.0|Protéines, Protéine brute
+302|||Glucides dont sucres|100.0|19 9 10,7 g|7.0|Glucides
+303|||Matières grasses dont acides gras saturés|90.0|5,2 g 2,6 g|6.0|Acides gras saturés, Saturés, AGS
+304|||Fibres alimentaires|100.0|0,5 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+305|||Sel|100.0|0,21 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+306|0000790310044|https://static.openfoodfacts.org/images/products/000/079/031/0044/nutrition_fr.11.400.jpg|||||
+307|||Total Carbohydrate|100.0|31g 10%|5.0|Carbohydrate
+308|||Sugars 30g|100.0|Sugars 30g|4.0|Sugars
+309|||Calories from Fat 70|100.0|Calories 180|3.0|Fat
+310|||Cholesterol Omg|100.0|Cholesterol Omg|1.0|Cholesterol
+311|||Dietary Fiber 2g|100.0|Dietary Fiber 2g|2.0|Dietary fiber
+312|||Sodium Omg|100.0|Sodium Omg|1.0|Sodium
+313|||Vitamin A 0%|100.0|Vitamin A 0%|1.0|vitamin A
+314|||Vitamin E 0%|100.0|Vitamin E 0%|1.0|Vitamin E
+315|||Vitamin C 0%|90.0|Vitamin A 0%|1.0|Vitamin C, ascorbic acid, E300, E 300, E-300
+316|||Calories:|75.0|2,000 2,500|8.0|Chloride
+317|||Iron 6%|100.0|Vitamin E 0%|1.0|Iron
+318|||Protein 1g|82.0|Protein 1g|2.0|Collagen/Meat protein ratio (maximum)
+319|||Nutrition|100.0||0.0|Nutrition score - UK
+320|0000800000002|https://static.openfoodfacts.org/images/products/000/080/000/0002/nutrition_fr.7.400.jpg|||||
+321|||Glucides|100.0|65g|3.0|Glucides
+322|||Dont sucres|71.0||0.0|Sucres, sucre
+323|||Matières grasses: Dont acides gras saturés|90.0|4.7g 0.7g|6.0|Acides gras saturés, Saturés, AGS
+324|||Ingrédients|100.0|Ingrédients|1.0|Fruits - légumes et noix (estimation avec la liste des ingrédients)
+325|000081|https://static.openfoodfacts.org/images/products/000081/nutrition_fr.9.400.jpg|||||
+326|||VALEURS|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+327|||Protéines|100.0|1,7 g|3.0|Protéines, Protéine brute
+328|||Glucides|100.0|18.2 g|4.0|Glucides
+329|||dont acides gras saturés|90.0|0.8 g|3.0|Acides gras saturés, Saturés, AGS
+330|||Fibres alimentaires|100.0|0.5 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+331|||Sel|100.0|0,25 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+332|||NUTRITIONNELLES|82.0||0.0|Note nutritionnelle
+333|0000901881036|https://static.openfoodfacts.org/images/products/000/090/188/1036/nutrition_fr.10.400.jpg|||||
+334|||Glucides/Carbohydrate etw s atures A vitamine C Fibres Sucres/Sugar Protéines niAvitm C|100.0|8 g 3% 4% /Fibre 1 g 7 g /Protein 0,1 g LO600|14.0|Glucides
+335|||% valeur quotidienne % Daily Value 0% 0 g 0% /Sodium 3 mg 88103|100.0|% valeur quotidienne % Daily Value 0% 0 g 0% /Sodium 3 mg 88103|11.0|Sodium
+336|00011686|https://static.openfoodfacts.org/images/products/00011686/nutrition_fr.17.400.jpg|||||
+337|||Energy kJ/Energie/Energie|100.0|76 446|5.0|Energy
+338|||Carbohydrate/Glucides/Kool|100.0|hydraten 34.7g 5.9g|7.0|Carbohydrate
+339|||of which sugars|100.0|of which sugars|1.0|Sugars
+340|||Fat/Matières grasses/Vetten|100.0|11.0g 1.9g|7.0|Fat
+341|||Suitable for vegetarians NUTRITION Serves/Portions/Porties:|75.0|"per 15| per 100g cookie (17.19J"|10.0|Nutrition grade
+342|00011693|https://static.openfoodfacts.org/images/products/00011693/nutrition_fr.9.400.jpg|||||
+343|||Energy kJ/Energie/Energie|100.0|Energy kJ/Energie/Energie|3.0|Energie
+344|||Protein/Proteines/Eiwitten|100.0|5.5g 1.2g|6.0|Eiwitten
+345|||Carbohydrate/Glucides/Koolhydraten|100.0|58.3g 13.1g|8.0|Koolhydraten
+346|||suikers 33.5g 7.5g|100.0|suikers 33.5g 7.5g|7.0|Suikers
+347|||Fat/Matières grasses/Vetten|100.0|29.1g 6.5g|7.0|Vetten
+348|||vetzuren|100.0|saturés/waarvan verzadigde|1.0|Verzadigde vetzuren
+349|||Fibre/Fibres alimentaires/Vezels|100.0|1.3g 0.3g|6.0|Vezels
+350|00011709|https://static.openfoodfacts.org/images/products/00011709/nutrition_fr.16.400.jpg|||||
+351|||Energy kJ/Energie/Energie|100.0|425 1887|7.0|Energie
+352|||Protein/Protéines/Eiwitten|100.0|5.1g 1.1g|6.0|Eiwitten
+353|||Carbohydrate/Glucides/Koolhydraten|100.0|59.3g 13.3g|8.0|Koolhydraten
+354|||dont sucres/waarvan suikers|100.0||0.0|Suikers
+355|||Fat/Matières grasses/Vetten|100.0|20.5g 4.6g|7.0|Vetten
+356|||waarvan verzadigde vetzuren|100.0|waarvan verzadigde vetzuren|1.0|Verzadigde vetzuren
+357|||Fibre/Fibres alimentaires/Vezels|100.0|4.2g 0.9g|6.0|Vezels
+358|00011730|https://static.openfoodfacts.org/images/products/00011730/nutrition_fr.16.400.jpg|||||
+359|||Energy kJ/Energie/Energie|100.0|1806 406|7.0|Energy
+360|||Carbohydrate/Glucides/Kool|100.0|hydraten 67.5g 15.2g|8.0|Carbohydrate
+361|||of which sugars|100.0|"|41.2g 9.3g"|7.0|Sugars
+362|||Fat/Matières grasses/Vetten|100.0|15.2g 3.4g|7.0|Fat
+363|||NUTRITION Serves/Portions/Porties:|75.0|"10| per per"|2.0|Nutrition grade
+364|00011747|https://static.openfoodfacts.org/images/products/00011747/nutrition_fr.22.400.jpg|||||
+365|||Energy kJ/Energie/Energie|100.0|Energy kJ/Energie/Energie|3.0|Energy
+366|||Carbohydrate/Glucides/Koolhydraten|100.0|"|57.4g 12.9g"|8.0|Carbohydrate
+367|||of which sugars/dont sucres/waarvan|100.0|suikers 34.4g 7.7g|7.0|Sugars
+368|||Fat/Matières grasses/Vetten|100.0|522 118|6.0|Fat
+369|||NUTRITION|100.0||0.0|Nutrition score - UK
+370|00011754|https://static.openfoodfacts.org/images/products/00011754/nutrition_fr.4.400.jpg|||||
+371|||Energy kJ/Energie/Energie|100.0|Energy kJ/Energie/Energie|3.0|Energie
+372|||Protein/Protóines/Eiwitten|100.0||0.0|Eiwitten
+373|||Carbohydrate/Glucides/Koolhydraten|100.0|Carbohydrate/Glucides/Koolhydraten|1.0|Koolhydraten
+374|||suikers 31.8g 7.2g|100.0|suikers 31.8g 7.2g|7.0|Suikers
+375|||granson/Vetten of which saturates/dont acidos|100.0|"gras saturés/13.7g |20.8g 4.7g"|12.0|Vetten
+376|||Waarvan verzadigde vetzuren|100.0|3.1g|3.0|Verzadigde vetzuren
+377|||of which sugars/dont sucres/waarvan Fibre/Fibres alimentaires/Vezels|100.0|suikers 31.8g 7.2g|7.0|Vezels
+378|00011778|https://static.openfoodfacts.org/images/products/00011778/nutrition_fr.15.400.jpg|||||
+379|||Energy kJ/Energie/Energie|100.0|1809 407|7.0|Energy
+380|||saturés/waarvan verzadigde Carbohydrate/Glucides/Koolhydraten|100.0|vetzuren 70.2g 15.8g|8.0|Carbohydrate
+381|||of which sugars/dont sucres/|100.0|35.7g 8.0g|7.0|Sugars
+382|||Fat/Matières grasses/Vetten|100.0|13.3g 3.0g|7.0|Fat
+383|||NUTRITION Serves/Portions/Porties:|75.0|per 10 per 100g cookie|6.0|Nutrition grade
+384|00011815|https://static.openfoodfacts.org/images/products/00011815/nutrition_fr.11.400.jpg|||||
+385|||Energy kJ/Énergie/Energie|100.0|1981 396|7.0|Energy
+386|||Carbohydrate/Glucides/Koolhydraten|100.0|63.6g 12.7g|8.0|Carbohydrate
+387|||of which sugars/dont sucres/|100.0|31.8g 6.4g|7.0|Sugars
+388|||Fat/Matières grasses/Vetten|100.0|20.8g 4.2g|7.0|Fat
+389|||Salt 6g|73.0|Saturates 20g Sugars 90g|7.0|salt, table salt, common salt, cooking salt, dry salt
+390|||NUTRITION|100.0||0.0|Nutrition score - UK
+391|00012126|https://static.openfoodfacts.org/images/products/00012126/nutrition_fr.7.400.jpg|||||
+392|||Protein/Protéines/Eiwitten|77.0|2.8g|3.0|Protéines, Protéine brute
+393|||Carbohydrate/Glucides/Kool hydraten|100.0|5.7g|3.0|Glucides
+394|||Fat/Matières grasses/Vetten|73.0|0.4g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+395|||Fibre/Fibres alimentaires/Vezels|88.0|10.4g|4.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+396|00015356|https://static.openfoodfacts.org/images/products/00015356/nutrition_fr.6.400.jpg|||||
+397|||Protein/Protéines/Bikoviny|72.0|0.8g|3.0|Protéines, Protéine brute
+398|||Glucides/Sacharidy|100.0|5.7g, of|3.0|Glucides
+399|||sucres/|100.0|which sugars/dont|1.0|Sucres, sucre
+400|||Fat/Matières|78.0|137KJ/33kcal|5.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+401|||acides gras|100.0|acides gras|1.0|Acides gras saturés, Saturés, AGS
+402|||5.7g Fibre/Fibres|83.0|5.7g Fibre/Fibres|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+403|||Carbohydrate/|70.0|kyseliny<0.1g|3.0|Bicarbonate
+404|00018166|https://static.openfoodfacts.org/images/products/00018166/nutrition_fr.12.400.jpg|||||
+405|||Energy kJ/Energie/Energie|100.0|(E 385 700|6.0|Energy
+406|||Carbohydrate/Glucides/Koolhydraten|100.0|33.1g 18.2g|8.0|Carbohydrate
+407|||of which sugars/dont sucres/waarvan|100.0|suikers 1.5g 0.8g PI|6.0|Sugars
+408|||Fat/Matières grasses/Vetten|100.0|0.6g 0.3g|6.0|Fat
+409|||NUTRITION Serves/Portions/Porties:|75.0|per per 6|1.0|Nutrition grade
+410|00018210|https://static.openfoodfacts.org/images/products/00018210/nutrition_fr.9.400.jpg|||||
+411|||kJ/Energie/Energie|100.0|126|3.0|Energie
+412|||Protéines/Eiwitten|100.0|0.3g|3.0|Eiwitten
+413|||Glucides/Koolhydraten|100.0|3.6g|3.0|Koolhydraten
+414|||suikers 2.7g|100.0|suikers 2.7g|3.0|Suikers
+415|||Matières grasses/Vetten|100.0|1.4g|3.0|Vetten
+416|||vetzuren|100.0|waarvan verzadigde|1.0|Verzadigde vetzuren
+417|||Fibres alimentaires/Vezels|100.0|1.0g|3.0|Vezels
+418|00018999|https://static.openfoodfacts.org/images/products/00018999/nutrition_fr.7.400.jpg|||||
+419|||100g per NUTRITION Serves/Portions/Porties: 8 Typical values Valeurs moyennes/ Gemiddelde waarden Energy kJ/Energie/Energie Energy kcal 1448 342|100.0|notenallergie vanweg BELANGRIJK Pas o sachet vloeistoffen uit de ma Without'-producten z speciale dieeteisen. gecontroleerde omge van kunt ger schudden voor gebr 3 min 40 sec. Leeg magnetronbestendig per (40g) er veilig 579 137|23.0|Energie
+420|||7.0g l0.08g Protein/Protéines/Eiwitten Salt/Sel/Zout|100.0|2.8g SC6307 0.03g Marks and Spen PO Box 3339 Ches|15.0|Eiwitten
+421|||Fat/Matières grasses/Vetten 1.6g 0.3g of which saturates dont acides gras saturés/ waarvan verzadigde vetzuren Carbohydrate Glucides/Koolhydraten 73.0g|100.0|naar smaak) toe en r vervolgens door. Zet magnetron. Roer na 1 min staan voor het FORNUIS 3-4 min. en b 0.6g 0.1g in een steelpan ontbijtmix toe en laa doorkoken (of tot de 29.2g|15.0|Koolhydraten
+422|||of which sugars/dont sucres/waarvan suikers 0.6g 3.6g Fibre/Fibres alimentaires/|100.0|of which sugars/dont sucres/waarvan suikers 0.6g 3.6g Fibre/Fibres alimentaires/|7.0|Suikers
+423|||Vezels|100.0||0.0|Vezels
+424|00019|https://static.openfoodfacts.org/images/products/00019/nutrition_fr.5.400.jpg|||||
+425|||Glucides ICULTURE LOGIQUE Lipides|100.0|1 g 40 g|5.0|Glucides
+426|||Fibres|100.0|27,9 g|4.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+427|||Dax - FRANCE|75.0|40990 St Paul Les EMB: 40168 A|10.0|Score nutritionnel - France
+428|||NUTRITIONNELLES (POUR 100|70.0|NUTRITIONNELLES (POUR 100|3.0|Note nutritionnelle
+429|00019101|https://static.openfoodfacts.org/images/products/00019101/nutrition_fr.11.400.jpg|||||
+430|||sugars|100.0|4g of which|2.0|Sugars
+431|||at 5.8g saturates|73.0|at 5.8g saturates|3.0|Saturated fat
+432|0002000000486|https://static.openfoodfacts.org/images/products/000/200/000/0486/nutrition_fr.10.400.jpg|||||
+433|||Glucides|100.0|14 g|3.0|Glucides
+434|||dont sucres|71.0|5,1 g|3.0|Sucres, sucre
+435|||Matières grasses|100.0|3,2 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+436|||dont acides gras|81.0|1,7 g|3.0|Acides gras saturés, Saturés, AGS
+437|||9 %|100.0|1,7 g|3.0|Acides gras Oméga 9, Oméga 9
+438|||6%|100.0|5,1 g|3.0|Acides gras Oméga 6, Oméga 6
+439|||Fibres alimentaires|100.0|0,9 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+440|||Sel|100.0|0,14 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+441|||Nutritionnelle|100.0||0.0|Note nutritionnelle
+442|0002000000714|https://static.openfoodfacts.org/images/products/000/200/000/0714/nutrition_fr.7.400.jpg|||||
+443|||sucres Protéines|84.0|6,3g|3.0|Protéines sériques
+444|||Glucides|100.0|Glucides|1.0|Glucides
+445|||Matières grasses|100.0|0.1g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+446|||Dont acides gras|81.0|satures 0,07g|4.0|Acides gras saturés, Saturés, AGS
+447|||Sel|100.0|0,13 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+448|||ANALYSE NUTRITIONNELLE|85.0||0.0|Note nutritionnelle
+449|0002000000776|https://static.openfoodfacts.org/images/products/000/200/000/0776/nutrition_fr.7.400.jpg|||||
+450|||Energie|100.0|1889 kJ|4.0|Energie
+451|||Eiweiß 7,8 g|100.0|Eiweiß 7,8 g|3.0|Eiweiß
+452|||Glucides Carbohydrates/Kohlenhydrate|100.0|50 g|3.0|Kohlenhydrate
+453|||Zucker 25 g|100.0|Zucker 25 g|3.0|Zucker
+454|||Matières grasses/Fat/Fett|100.0|23 9|3.0|Fett
+455|||of wich satured fat davon gesättigte Fettsäuren|100.0|6,2 9|3.0|gesättigte Fettsäuren
+456|||Vitamine E/Vitamin|94.0|4,6 mg E|3.0|Vitamine, Vitamin, Vitaminmischung
+457|||vitamin E source, fiber|88.0|magnésium - High|2.0|Vitamin K
+458|||Magnésium/Magnesium|100.0|65,2 mg|4.0|Magnesium
+459|0002000001315|https://static.openfoodfacts.org/images/products/000/200/000/1315/nutrition_fr.10.400.jpg|||||
+460|||6%|100.0|1,2g|3.0|Omega 6 fatty acids
+461|0002000001780|https://static.openfoodfacts.org/images/products/000/200/000/1780/nutrition_fr.7.400.jpg|||||
+462|||Protéines|100.0|12|2.0|Protéines, Protéine brute
+463|||Glucides|100.0|Glucides|1.0|Glucides
+464|||Sucre|100.0|1|1.0|Sucres, sucre
+465|||Lipides|100.0|10|2.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+466|||Acides gras saturés|100.0|Acides gras saturés|1.0|Acides gras saturés, Saturés, AGS
+467|||Sel|100.0|0,4|2.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+468|0002000002466|https://static.openfoodfacts.org/images/products/000/200/000/2466/nutrition_fr.7.400.jpg|||||
+469|||Protéines /Eiwitten / Eiweiß Proteínas Proteine|100.0|/ Protein / 4,0g 4,0g|6.0|Proteínas
+470|||dont waarvan Glucides Koolhydraten - Kohlenhydrate davon Carbohydrate of which Hidratos de carbono - de azúcares Carboidrati|100.0|/ suikers / Zucker / sugars/ los cuales SUcres 44g 44g 0,7g 0,7g di cui|13.0|Hidratos de carbono
+471|||Matières grasses gras satures Vetten verzadigde vetzuren / Fett gesättigte Fettsäuren/ which saturates Grasas cuales saturados Grassi acidi grassi saturi dont|100.0|davon Fat of de las di cui acides waarvan 2,9g 2,9g 0,7g 0,7g|12.0|Grasas
+472|||alimentaria / Fibre|94.0|Vezels / 3,0g 3,0g / Fibra|6.0|Fibra alimentaria
+473|0002000003173|https://static.openfoodfacts.org/images/products/000/200/000/3173/nutrition_fr.10.400.jpg|||||
+474|||information Nutritionnelie/Voedingswaarde-informatie 1= (67 g) %/1 (67g) 1932 kJ/460 kcal 129 kJ/31 kcal 2% Matieres grasses/ Vetten dont acides gras satures/waarvan verzadigde vetzuren Gluades/Koolhydraten % 69 <0,19 % > %7 dont sucres/waarvan suikers Fibres alimentaires/Vezels %L Proteines/Eiwitten %1> <1% Sel/Zout FR BE Biscuits sans gluten. ingrédients: Fécule de-pomme de terre amidon de mais, sucre de canne, huile de tournesol 15%, farine de sarrasin 12 %, farine de riz, oeufs, fibres végétales (inuline) 2,5 %, mélasse déshydratée, lait en poudre, aromes, poudres à lever (carbonate acide d'ammonium, carbonate acide de sodium), sel, antioxydant (extrait de romarin). Peut contenir soja. DGlutenvrije biscuits. Ingredienten: Aardappelzetmeel, maiszetmeel, rietsuiker, zonnebloemolie 15 %, boekweitbloem 12 %, rijstbioem eieren, plantaardige vezels (inuline) 2,5 %, melassepoeder, volle melkpoeder, aroma's, rijsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonat 20out, antioxidant (rozemarijnextract). Mondeles International Service consommateurs Consumentenservice NCristal: 09.69.39.79 Appel non surtaxe www.mondelezinternational.fr 00800-800-13457 GRATIS/GRATUIT www.lu.be BE LU) llage|100.0|information Nutritionnelie/Voedingswaarde-informatie 1= (67 g) %/1 (67g) 1932 kJ/460 kcal 129 kJ/31 kcal 2% Matieres grasses/ Vetten dont acides gras satures/waarvan verzadigde vetzuren Gluades/Koolhydraten % 69 <0,19 % > %7 dont sucres/waarvan suikers Fibres alimentaires/Vezels %L Proteines/Eiwitten %1> <1% Sel/Zout FR BE Biscuits sans gluten. ingrédients: Fécule de-pomme de terre amidon de mais, sucre de canne, huile de tournesol 15%, farine de sarrasin 12 %, farine de riz, oeufs, fibres végétales (inuline) 2,5 %, mélasse déshydratée, lait en poudre, aromes, poudres à lever (carbonate acide d'ammonium, carbonate acide de sodium), sel, antioxydant (extrait de romarin). Peut contenir soja. DGlutenvrije biscuits. Ingredienten: Aardappelzetmeel, maiszetmeel, rietsuiker, zonnebloemolie 15 %, boekweitbloem 12 %, rijstbioem eieren, plantaardige vezels (inuline) 2,5 %, melassepoeder, volle melkpoeder, aroma's, rijsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonat 20out, antioxidant (rozemarijnextract). Mondeles International Service consommateurs Consumentenservice NCristal: 09.69.39.79 Appel non surtaxe www.mondelezinternational.fr 00800-800-13457 GRATIS/GRATUIT www.lu.be BE LU) llage|78.0|Sucres, sucre
+475|0002000005924|https://static.openfoodfacts.org/images/products/000/200/000/5924/nutrition_fr.10.400.jpg|||||
+476|||Protéines|100.0|3,3 g|3.0|Protéines, Protéine brute
+477|||Glucides dont sucres|100.0|26 g 11 g|6.0|Glucides
+478|||Matières grasses dont saturées|70.0|22 g 12 g|6.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+479|||Fibres|100.0|1,4 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+480|||Sel|100.0|0,25 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+481|0002000006143|https://static.openfoodfacts.org/images/products/000/200/000/6143/nutrition_fr.10.400.jpg|||||
+482|||pour 100g Valeurs Moyennes 838KJ/198kcal Valeurs Energétique 0,5g 0,1g Matieres grasses Dont Acides gras saturés 37,3g 1,4g Glucides Dont Sucres|100.0|pour 100g Valeurs Moyennes 838KJ/198kcal Valeurs Energétique 0,5g 0,1g Matieres grasses Dont Acides gras saturés 37,3g 1,4g Glucides Dont Sucres|27.0|Glucides
+483|0002000008390|https://static.openfoodfacts.org/images/products/000/200/000/8390/nutrition_fr.7.400.jpg|||||
+484|||Protéines|100.0|19,3 g|4.0|Protéines, Protéine brute
+485|||Glucides|100.0|50,5 g|4.0|Glucides
+486|||dont sucres|71.0|1,5 g|3.0|Sucres, sucre
+487|||Matières grasses|100.0|4,0 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+488|||dont acides gras saturés|90.0|1,1 g|3.0|Acides gras saturés, Saturés, AGS
+489|||Fibres alimentaires|100.0|4,6g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+490|||Sel|100.0|4,3 g|3.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+491|0002000008536|https://static.openfoodfacts.org/images/products/000/200/000/8536/nutrition_fr.7.400.jpg|||||
+492|0002000010539|https://static.openfoodfacts.org/images/products/000/200/001/0539/nutrition_fr.10.400.jpg|||||
+493|||Énergie|100.0|614 kJ/147 kcal|6.0|Énergie, valeurs énergétique, valeur énergétique
+494|||Protéines|100.0||0.0|Protéines, Protéine brute
+495|||Glucides|100.0|10 g|3.0|Glucides
+496|||-dont sucres|71.0||0.0|Sucres, sucre
+497|||Matières grasses|100.0|7,2g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+498|||-dont acides gras saturés|90.0|0,9g|3.0|Acides gras saturés, Saturés, AGS
+499|||Fibres alimentaires|100.0||0.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+500|||Sel|100.0||0.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+501|0002000012847|https://static.openfoodfacts.org/images/products/000/200/001/2847/nutrition_fr.7.400.jpg|||||
+502|||Protéines|100.0|8.1g 4.1g|6.0|Protéines, Protéine brute
+503|||Glucides|100.0|48.6g 24.3g|8.0|Glucides
+504|||Dont sucres|71.0|8g 4g|4.0|Sucres, sucre
+505|||Matières grasses|100.0|10.8g 5.4g|7.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+506|||Dont acides gras saturés|90.0|5.8g 2.9g|6.0|Acides gras saturés, Saturés, AGS
+507|||Fibres alimentaires|100.0|8g 4g|4.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+508|||Sodium|100.0|0.1g 0.05g|7.0|Sodium
+509|00020039|https://static.openfoodfacts.org/images/products/00020039/nutrition_fr.10.400.jpg|||||
+510|||Energy kJ/Energie/Energie|100.0|1426|4.0|Energy
+511|||Carbohydrate/Glucides/Koolhydraten|100.0|78.1g|4.0|Carbohydrate
+512|||of which sugars/dont sucres/|100.0|52.3g|4.0|Sugars
+513|||Fat/Matières grasses/Vetten|100.0|0.2g|3.0|Fat
+514|||NUTRITION|100.0|100g|4.0|Nutrition score - UK
+515|00020374|https://static.openfoodfacts.org/images/products/00020374/nutrition_fr.7.400.jpg|||||
+516|||Energy kJ/Energie/Energie|100.0|52 104|5.0|Energie
+517|||Protein/Protéines/Eiwitten|100.0|1.9g 1.0g|6.0|Eiwitten
+518|||Carbohydrate/Glucides/Koolhydraten|100.0|2.6g 1.3g|6.0|Koolhydraten
+519|||"suikers | 1.8g 0.9g"|100.0|"suikers | 1.8g 0.9g"|6.0|Suikers
+520|||Fat/Matières grasses/Vetten|100.0|0.4g 0.2g|6.0|Vetten
+521|||waarvan verzadigde vetzuren|100.0|waarvan verzadigde vetzuren|1.0|Verzadigde vetzuren
+522|||Fibre/Fibres alimentaires/Vezels|100.0|0.n 1.6g|4.0|Vezels
+523|00020404|https://static.openfoodfacts.org/images/products/00020404/nutrition_fr.10.400.jpg|||||
+524|||téines/Eiwitten|100.0|2,0 g 6,8 g|6.0|Eiwitten
+525|||cides/Koolhydraten|100.0|17 g 56 g|6.0|Koolhydraten
+526|||t sucres/waarvan suikers|100.0|13 g 43 9|6.0|Suikers
+527|||nergie Matheres grasses/Vetten|100.0|9,3 g 31 g|6.0|Vetten
+528|||6 %|100.0|17 g 56 g|6.0|Omega 6-vetzuren
+529|||res alimentaires/Vezels|100.0|0,8 g 2,8 g|6.0|Vezels
+530|||/ Zout|100.0||0.0|zout, Keukenzout
+531|000208|https://static.openfoodfacts.org/images/products/000208/nutrition_fr.5.400.jpg|||||
+532|||Pour 1 Madeleine (21,6 g) Pour 1 Pâtisserie (29 g) ALEURS RITIONNELLES Pour OYENNES Pour 100 g Pour 100 g 100 g 1954 kJ 425 kJ 102 kcal 1965 kJ 470 kcal 584 kJ 140 kcal 7,5 g 2,0 g 16,0 g 10,2 g 2 018 kJ 483 kcal 26 g acides gras saturés 7,0 g 55 g 35 g 2,4 g 6,0 g 0,63 g eur énergétique 467 kcal 24 g 6,5 g 5,4 g 1,3 g 25 g 6,0 g tières grasses 56 g 31 g 1,5 g 6,0 g 0,93 g 11,7 g 6,5 g 0,5 g 1,3 g 0,13 g 54 g 30 g Glucides dont sucres 2,5 g 6,0 g 0,58 g 0,7 g 1,7 g 0,18 g res Alimentaires Protéines Sel|100.0|Pour 1 Financier (22 g) 1868 kJ 413 kJ 1667 kJ 446 kcal 99 kcal 397 kcal 5,1 g 2,2g 11,2g 8,5g Po Tra (20 Pour 1 pâtisserie (33 g) Pour 1 Madeleine (21,7 g) Pour 100 g Pour 100 g Pour 100 g 34 569 kJ 1 728 kJ 412 kcal 424 kJ 101 kcal 82 136 kcal 15g 75g 23 g 10g 51 g 39 g 1,7 g 8,0 g 5,9 g 0,7 g 18,8 g 10,2 g 18 g 2,0 g 5,2 g 1,4 g 12 7.9 60g 57 g 31 g 12,2 g 6,7 g <0,5 g 1,9 g 45g <0. <0,5g 1,8 g <0,5 g 1,7 g 0,21 g 1,0 g 5,0 g 0,63 g 0.9 0.07 1,3 g 0,20 g 0,55g 0,12g 0,34 g to 80C 2T OF|215.0|Glucides
+533|000224|https://static.openfoodfacts.org/images/products/000224/nutrition_fr.10.400.jpg|||||
+534|||Valeur énergétique|100.0|119 kcal|3.0|Énergie, valeurs énergétique, valeur énergétique
+535|||Protéines|100.0|1,5 g|3.0|Protéines, Protéine brute
+536|||Glucides dont sucres|100.0|13,8 g 8 g|6.0|Glucides
+537|||Matières grasses dont acides gras saturés|90.0|6,3 g 1,3 g|6.0|Acides gras saturés, Saturés, AGS
+538|||Fibres alimentaires|100.0|0,6 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+539|||Sel|100.0|0,16 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+540|000227|https://static.openfoodfacts.org/images/products/000227/nutrition_fr.10.400.jpg|||||
+541|||VALEURS|100.0||0.0|Énergie, valeurs énergétique, valeur énergétique
+542|||Protéines|100.0|2,0 g|3.0|Protéines, Protéine brute
+543|||Glucides|100.0|21,1 g|4.0|Glucides
+544|||dont sucres|71.0|13,7 g|4.0|Sucres, sucre
+545|||Matières grasses|100.0|7,4 g|3.0|Matières grasses / Lipides, Matières grasses, Matière grasse, Lipides, Graisses, Graisse
+546|||dont acides gras saturés|90.0|1,9 g|3.0|Acides gras saturés, Saturés, AGS
+547|||Fibres alimentaires|100.0|< 0,5 g|3.0|Fibres alimentaires,fibres, fibre, fibre alimentaire
+548|||Sel|100.0|0,26 g|4.0|Sel, Sel alimentaire, sel de table, sel de cuisine, sel sec, sel comestible
+549|||NUTRITIONNELLES|82.0|Pour 1 Bijou|1.0|Note nutritionnelle
+550|00022941|https://static.openfoodfacts.org/images/products/00022941/nutrition_fr.7.400.jpg|||||
+551|||kJ/Energie/Energie|100.0|1484 1308|8.0|Energie
+552|||Protéines/Eiwitten|100.0|15.1g 13.3g|8.0|Eiwitten
+553|||Glucides/Koolhydraten|100.0|5.4g 4.8g|6.0|Koolhydraten
+554|||1.6g suikers 1.4g|100.0|1.6g suikers 1.4g|6.0|Suikers
+555|||Matières grasses/Vetten|100.0|30.3g 26.7g|8.0|Vetten
+556|||vetzuren|100.0|waarvan verzadigde|1.0|Verzadigde vetzuren
+557|||Fibres alimentaires/Vezels|100.0|1.8g 1.6g|6.0|Vezels
+558|00023108|https://static.openfoodfacts.org/images/products/00023108/nutrition_fr.7.400.jpg|||||
+559|||Energy kJ/Energie/Energie|100.0|1938 1337|8.0|Energie
+560|||Protein/Protéines/Eiwitten|100.0|5.0g 3.5g|6.0|Eiwitten
+561|||Carbohydrate/Glucides/Koolhydraten|100.0|62.6g 43.2g|8.0|Koolhydraten
+562|||36.9g 25.5g suikers|100.0|36.9g 25.5g suikers|8.0|Suikers
+563|||Fat/Matières grasses/Vetten|100.0|"|21.0g 14.5g"|8.0|Vetten
+564|||satures/waarvan verzadigde vetzuren|100.0|satures/waarvan verzadigde vetzuren|1.0|Verzadigde vetzuren
+565|||e, Fibre/Fibres alimentaires/Vezels|100.0|1.5g 1.0g|6.0|Vezels
+566|00024679|https://static.openfoodfacts.org/images/products/00024679/nutrition_fr.7.400.jpg|||||
+567|00024907|https://static.openfoodfacts.org/images/products/00024907/nutrition_fr.12.400.jpg|||||
+568|||20 Typical values/ waarden per 100g: Energy Fat/Matières grasses/Neten|100.0|NUTRITION Serves/Portions/Porties: eleurs moyennes/Gemiddelde ege Energie 721kJ/170kcal|9.0|Energy
+569|||of which saturates/dont 2e vetzuren 0.1g Carbohydrate/Glucides/ raten 39.4g, of which BEST BEFORE END 04/2018 7187 21:20.|100.0|of which saturates/dont 2e vetzuren 0.1g Carbohydrate/Glucides/ raten 39.4g, of which BEST BEFORE END 04/2018 7187 21:20.|23.0|Carbohydrate
+570|||acides gras saturés/waanvan sugars/dont sucresialn suikers 33.9g Fibre/Fiores alimentairesNezels 0.8g Protein/Protéines/Eiten 2.0g Salt/Sel/Zout 2.58g STORAGE Store in a coo. dry place. Once opene keep refrigerated and consume within 4 weeks|100.0|of which saturates/dont 2e vetzuren 0.1g Carbohydrate/Glucides/ raten 39.4g, of which BEST BEFORE END 04/2018 7187 21:20.|23.0|Sugars
+571|||NUTRITION Serves/Portions/Porties: eleurs moyennes/Gemiddelde ege Energie 721kJ/170kcal|75.0|NUTRITION Serves/Portions/Porties: eleurs moyennes/Gemiddelde ege Energie 721kJ/170kcal|9.0|Nutrition grade
+572|00025393|https://static.openfoodfacts.org/images/products/00025393/nutrition_fr.14.400.jpg|||||
+573|||Energie/énergie: 525 kJ (126 kcal),|100.0|Energie/énergie: 525 kJ (126 kcal),|8.0|Energie
+574|||gras saturés <0,5g, Kohlenhydrate/|100.0|gras saturés <0,5g, Kohlenhydrate/|4.0|Kohlenhydrate
+575|||glucides: 10g, davon Zucker / dont|100.0|glucides: 10g, davon Zucker / dont|4.0|Zucker
+576|||Fett/matères grasses 6g, davon|100.0|Energie/énergie: 525 kJ (126 kcal),|8.0|Fett
+577|||gesättigte Fettsäuren / dont acides|100.0|gras saturés <0,5g, Kohlenhydrate/|4.0|gesättigte Fettsäuren
+578|||sucres: Ballaststoffe/fibres|100.0||0.0|Ballaststoffe
+579|00027083|https://static.openfoodfacts.org/images/products/00027083/nutrition_fr.16.400.jpg|||||
+580|||Energie 1513KJ/362kcal|100.0|Energie 1513KJ/362kcal|8.0|Energie
+581|||Protein/Protéines/Eiwitten|100.0||0.0|Eiwitten
+582|||Koolhydraten|100.0|42.3g, of|4.0|Koolhydraten
+583|||suikers|100.0||0.0|Suikers
+584|||Vetten 19.9g,|100.0|Vetten 19.9g,|4.0|Vetten
+585|||verzadigde|100.0|vetzuren 2.5g|3.0|Verzadigde vetzuren
+586|00027137|https://static.openfoodfacts.org/images/products/00027137/nutrition_fr.7.400.jpg|||||
+587|||Energy kJ/Energie/Energie|100.0|1728 1152|8.0|Energy
+588|||Carbohydrate/Glucides/Koolhydraten|100.0|53.1g 35.4|7.0|Carbohydrate
+589|||of which sugars/dont sucres/waarvan|100.0|suikers 41.9g 27.9|7.0|Sugars
+590|||Fat/Matières grasses/Vetten|100.0|20.0g 13.3|7.0|Fat
+591|||NUTRITION Serves/Portions/Porties:|75.0|6 per per|1.0|Nutrition grade
+592|00028202|https://static.openfoodfacts.org/images/products/00028202/nutrition_fr.18.400.jpg|||||
+593|||Energy kJ/Energie/Energie|100.0|2049 615|7.0|Energy
+594|||Carbohydrate/Glucides/Koolhydraten|100.0|53.7g 16.1g|8.0|Carbohydrate
+595|||of which sugars/dont sucres/waarvan|100.0|suikars 2.5g 0.8|5.0|Sugars
+596|||Fat/Matières grasses/Vetten|100.0|"|26.5g 8.0g"|7.0|Fat
+597|||NUTRITION Serves/Portions/Porties: Typical values Valeurs moyennes/Gemiddelde|75.0|per per % 100g pack (30g) 5 waarden|8.0|Nutrition grade
+598|00028264|https://static.openfoodfacts.org/images/products/00028264/nutrition_fr.7.400.jpg|||||
+599|||Energy kJ/Energie/Energie|100.0|1668 131|7.0|Energy
+600|||Carbohydrate|100.0|63.7g 5.0g|7.0|Carbohydrate
+601|||of which sugars/dont|100.0|15.1g 1.2g|7.0|Sugars
+602|||Fat/Matières grasses/Vetten|100.0|11.1g 0.9g|7.0|Fat
+603|||NUTRITION Serves/Pour environ/|75.0|per 100g per 7.9g|7.0|Nutrition grade
+604|00028271|https://static.openfoodfacts.org/images/products/00028271/nutrition_fr.17.400.jpg|||||
+605|||Energy kJ/Energie/Energie|100.0|458 2288|7.0|Energy
+606|||Carbohydrate/Glucides/Koolhydraten|100.0|"|52.0g 10.4g"|8.0|Carbohydrate
+607|||of which sugars/dont sucres/waarvan|100.0|suikers 21.2g 4.2g|7.0|Sugars
+608|||Fat/Matières grasses/Vetten|100.0|34.9g 7.0g|7.0|Fat
+609|||NUTRITION Serves/Portions/Porties:|75.0|9 per per|1.0|Nutrition grade
+610|00028790|https://static.openfoodfacts.org/images/products/00028790/nutrition_fr.10.400.jpg|||||
+611|||Typical values Valeurs moyennes/ Gemiddelde waarden Energy kJ/Energie/Energie Energy kcal/Energie/Energie Fat/Matières grasses/Vetten|100.0|388 1649 419 99 0.5g 0.1g 0.4g 0.1g|24.0|Energy
+612|||Carbohydrate|100.0||0.0|Carbohydrate
+613|||of which sugars/dont|100.0|95.6g 24.3g|8.0|Sugars
+614|||NUTRITION Serves/Portions/Porties:|75.0|100g bag (25g) 7|9.0|Nutrition grade
+615|00028813|https://static.openfoodfacts.org/images/products/00028813/nutrition_en.27.400.jpg|||||
+616|||Energy kJEnerge Enegie|100.0|1983 516|7.0|Energy
+617|||Carbohydrate Glucies|100.0|Carbohydrate Glucies|1.0|Carbohydrate
+618|||Fat 70g Saturates 20g Sugars|100.0|Fat 70g Saturates 20g Sugars|7.0|Sugars
+619|||Fat Maneres graes ch saturates dort acdes|100.0|gras sturs 12.5g 33g|8.0|Fat
+620|||NUTRITION Serves Portons|75.0|Pores 5 per jpe|1.0|Nutrition grade
