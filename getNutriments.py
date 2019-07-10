@@ -27,12 +27,13 @@ import requests
 from PIL import Image
 from io import BytesIO
 import matplotlib.pyplot as plt
-
+import time
 # =============================================================================
 # get product data
 # =============================================================================
 
 def get_product_data(prod):
+    
 #    prod = "3560070762255"
     url_ocr = "https://world.openfoodfacts.org/cgi/nutrition.pl?code={}&id=nutrition_fr&process_image=1&ocr_engine=google_cloud_vision&annotations=1".format(prod)
     try:
@@ -120,7 +121,7 @@ def find_nb_columns(content,columns = None):
 # build columns (assumed 3 for now)
     kmeans_i = []
     kmeans_score = []
-    for i in range(1,10):
+    for i in range(1,5):
         kmeans_i.append(i)
         kmeans_tmp = KMeans(n_clusters = i,
                     init="k-means++",
@@ -224,12 +225,18 @@ def clean_nutriment_table(nut_table_raw, nut_tax, langu, threshold = 70):# ident
 
 def get_nutriments(json_ocr,  nut_tax):
 #    data = ocr_json_load(test_ocr)
+    step_1 = time.time()
     content, langu, height = ocr_json_extract(json_ocr)
+    step_2 = time.time()
     kmeans_tmp = find_nb_columns(content)
+    step_3 = time.time()
     nut_table_raw = build_nutriment_table(content, kmeans_tmp, height/50)
+    step_4 = time.time()
     nut_table_clean = clean_nutriment_table(nut_table_raw, nut_tax, langu)
+    step_5 = time.time()
     nut_table_clean["nut_from_taxonomy"] = nut_table_clean.index
     nut_table_clean.index = [a for a in range(0, len(nut_table_clean))]
+    print("ocr_extract in {} sec \n find columns in {} sec \n nut raw in {} sec \n nut clean in {} sec".format(step_2-step_1, step_3-step_2, step_4-step_3, step_5-step_4))
     return nut_table_clean.to_json(orient='index', force_ascii = False), nut_table_clean 
 
 # =============================================================================
