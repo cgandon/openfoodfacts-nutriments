@@ -72,7 +72,7 @@ for prod in product_list:
         p_duration = p_end-p_start
         p_time = []
         p_time.insert(0,{"product":prod,"time":p_duration})
-        exec_time = pd.concat([pd.DataFrame(p_time),exec_time], ignore_index=True, sorted = False)
+        exec_time = pd.concat([pd.DataFrame(p_time),exec_time], ignore_index=True, sort = False)
     else:
         skipped += 1
         
